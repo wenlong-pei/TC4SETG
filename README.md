@@ -1,9 +1,9 @@
 # Automatic Title Completion for Software Engineering Title Generation Tasks
 
 ## Introduction
-![](E:\mypaper\EMSE2023\model.jpg)
+![model](.\figs\model.jpg)
 
-![model2](E:\mypaper\EMSE2023\model2.png)
+![model2](.\figs\model2.png)
 
 
 
