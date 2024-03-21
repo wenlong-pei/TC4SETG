@@ -1,1698 +1,1839 @@
-that takes keyword arguments
-keyword arguments
-keyword arguments
-cancel pending migrations?
-Can I cancel pending migrations?
-pending migration?
-equivalent to Ruby's `tap` method?
-ruby method that returns a variable in Clojure?
-there a method that returns a variable in Clojure?
-`elseif`?
-you use else if over elsif?
-over `else elsif`?
-ActiveModel
-in Rails
-DISTINCT in Rails
-shell script that runs a ruby script inside a tmux session?
-run a ruby script inside it?
-the ruby script inside it?
-"files, etc"
-and objects
-test a single RSpec test?
-"updating ""BUNDLED WITH"" section from Gemfile.lock"
-from Gemfile.lock
-section from Gemfile.lock
-use the ruby guard clause for redirect_to root_path?
-clauses in ruby?
-the guard clause in ruby?
-an undefined method error
-class in rails concern not working
-error
-and run fakes3 gem on El Capitan
-El Capitan
-El Capitan
-import data from other websites in ruby
-for a user
-workaround for using the Importer for data import
-to Bootstrap Select?
-"data-live-search=""true"" in a form select tag in Rails?"
-select?
-in rails 4.1.2
-console
-the rails console
-timestamps
-just the created_at column
-"timestamps, created_at and updated_at"
-RSpec?
-`let` do in RSpec?
-in RSpec?
-...] doesn't give me the two smallest elements?
-doesn't give me the smallest two elements?
-20]
-"Registered"""
-trait not registered
-trait not registered
-catch all exceptions in a job?
-all exceptions in a job?
-how do I capture all exceptions in a job?
-js and erb in my js file?
-4?
-to use javascript_include_tag with js.erb file in js file in Rails 4?
-missing region
-Missing region; use :region option or export region name to ENV['AWS_REGION']
-region
-before the entire class is loaded in Ruby?
-load a class method in Ruby until the entire class is loaded?
-class level in Ruby?
-in RSpec
-Time.now in RSpec
-RSpec
-existing table
-SQLite3::SQLException: Cannot add a NOT NULL column with default value NULL
-SQLite3::SQLException: Cannot add a NOT NULL column with default value NULL
-executable hooks not working
-syntax error in ruby_executable_hooks
-error
-rails text_field_tag
-class to a text_field_tag in rails
-class to text_field_tag
-doesn't work when stdin is passed in
-from stdin
-when passed data from stdin
-in RSpec
-method in an anonymous class in RSpec
-RSpec
-RVM on Windows with SSL_connect returned=1 errno=0 state=SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed (Faraday::SSLError)
-connect to my MacBook with Ruby 2.2.3
-RVM on Windows with SSL certificate verification failed (Faraday::SSLError)
-For Logstash
-Logstash
-Filter For Logstash
-Time.now?
-"I get ""October"" from 10?"
-number in Ruby?
-Rails models by attributes that have an array or items?
-I query data in ActiveRecord by attributes that have an array or items?
-by attributes that have an array or items?
-config/environments/development.rb
-when using rails server
-rails server
-an array in Ruby without guaranteed elements are in the master array
-from an array in Ruby
-entries from an array in Ruby
-a simple key at line 3 column 1 (Psych::SyntaxError)
-3 column 1 (Psych::SyntaxError)
-not find expected ':' while scanning a simple key at line 3 column 1 (Psych::SyntaxError)
-matcher ignoring whitespace / newlines?
-output
-custom matcher ignoring whitespaces and newlines
-priority?
-priority?
-a priority or not?
-async on Background
-work
-code
-Time.current not equal to its parsed equivalent?
-not equal?
-timezones not equal to `Time.current`?
-performance
-vs. while vs. while
-remainder of a number with evenly divisible numbers
-in sprockets?
-rails?
-rails?
-certain type
-before(:each) vs before(:each) for each type: :feature
-feature
-in ruby on rails
-Ruby on Rails migration
-migrations
-"use ""self"" in Ruby module's method definition?"
-"I need ""self"" in module's method definition in Ruby?"
-Ruby module's method definition?
-"Hash.to_json, JSON.generate or JSON.dump?"
-dump a hash object to JSON in Ruby?
-or JSON.dump?
-bad interpreter: No such file or directory
-"such file or directory"""
-"interpreter"""
-all tests in a nested test suite
-not run all tests in a nested test suite?
-folder
-has_many models in one controller in ruby on rails?
-in one controller in ruby on rails?
-to save multiple models in one model in Rails?
-tests
-test
-vs. `efql`
-a heredoc in a hash
-hash value
-heredoc in a hash
-a sidekiq worker is done
-Sidekiq worker progress check
-if a sidekiq worker is done
-"appends to has_many with ""<<"" operator"
-"on Rails: Append to has_many with ""<<"" operator"
-operator in has_many relation
-in ruby on rails
-deleting
-find_in_batches in ruby on rails
-static files in Docker container
-inside of a Docker container
-files in Docker container
-ReactDOM is not defined
-defined
-not defined
-is not JSON?
-request keeps forcing me to use JSON in Dropzone.js?
-to a page with dropzone.js using JSON?
-to the same endpoint with different results in webmock
-in webmock
-the same endpoint with different results in webmock
-in Ruby
-object with query arguments by passing hash?
-query string by passing hash?
-if a string contains only letters a-zA-Z0-9
-and spaces
-check if a string contains only letters a-zA-Z0-9
-from url or request in Rails
-or request in Rails
-the Rails route of api request
-in Ruby
-in ruby
-Ruby
-Ruby?
-in Rails 4?
-mean in Rails 4?
-<<- in Ruby mean?
-Ruby?
-<<- mean in Ruby?
-"refused - connect(2) for ""localhost"" port 9200"
-"Connection refused - connect(2) for ""localhost"" port 9200"
-"for ""localhost"" port 9200"
-doesn't include the key in the first hash?
-values
-test if a hash contains a value in Rspec?
-strings with no leading spaces
+with no leading spaces
 leading spaces
 no leading spaces
-ensure array size
-method call ignoring order of array elements
-how to stub method which takes an array ignoring order?
-"error (Errno::SSLError) [Errno 13] _ssl.c:504: error=2, No such file or directory: http.ssl.c:504: No such file or directory"
-state=unknown state: unknown protocol
-[Errno 13] _ssl.c: [Errno 13] _ssl.c: [Errno 13] _ssl.c: [Errno 13] _ssl.c: [Errno 13] _ssl.c: [Errno 13] No such file or directory: 'net/http'
-tables in Rails?
-with multiple columns in Rails?
-in Rails?
-adapter in an initializer?
-Adapter to Json Api
+pass
+stub method without losing array order
+call ignoring array order
+state=unknown state (OpenSSL::SSL::SSLError)
+SYSCALL returned=5 errno=0 state=unknown state (OpenSSL::SSL::SSLError)
+errno=0 state=unknown state (OpenSSL::SSL::SSLError)
+multiple belongs_to associations in Rails 3?
+in Rails 3?
+multiple associated records in Rails 3?
 Adapter
-helper_method
-by helper_method
-in a controller
-"Date.today.strftime(""%A"")"
-name without translation Ruby
-without translation Ruby/Rails
-form_tag
-How to use onsubmit with form_tag
-to use onsubmit with form_tag
-a read-only attribute in a Rails model
-belongs_to association which depends on the content of a relationship?
-on Rails?
-in my data)
+ActiveRecord::Serializer.config.adapter = :json_api
+attributes adapter from a different adapter?
+controllers
+helper method is defined in controller but it cannot access it
+in controllers which can be accessed from another controller
+localization
+localization?
+name localize in Rails
+3 - How to use onsubmit with form_tag
+how to use onsubmit with form_tag
+use onsubmit with form_tag
+read-only attribute to a Rails/ActiveAdmin model
+Rails?
+which depends on another attribute?
 comparison of Array with Array failed (ArgumentError)
-error)
-& operator for chained method calls?
-"the Ruby 2.3 navigation syntax say ""foo.bar foo&foo""?"
-redirect the result of a chained method call?
-a rails app with rspec in a gem's test suite?
-with rspec in a gem's test suite?
-a gem with rspec?
-not loaded: libmysqlclient.20.dylib
-failed to load gem 'mysql2'
-libmysqlclient.20.dylib
-to allow certain characters in a regex?
-expression?
-that starts with a certain character in a regex?
-in Ruby?
-check if a private method is defined in Ruby?
-is defined in Ruby?
-JSON request to every request via prefetch
-a single request instead of appending JSON request to every request via prefetch
-making JSON request for every request via prefetch
+ArgumentError)
+Array with Array failed (ArgumentError)
+Ruby eases the safe navigation syntax of chained method calls?
+chained method calls?
+operator `?` or `&` for chained method calls?
+using rspec?
+rspec?
+with rspec?
+Capitan: Mysql2::Error Your password has expired
+loaded: /usr/local/lib/libmysqlclient.18.dylib (LoadError)
+not loaded: /usr/local/lib/libmysqlclient.18.dylib (LoadError)
+and allow it?
+that iscaptured within a brackets and allow it?
+in regex?
+check if a method is defined in Ruby?
+if a method is defined in Ruby?
+defined in Ruby
+request
+every request via prefetch
+How to make JSON request only for one specific request?
+each other?
 extend and include
-"Is module ""extend"" and ""include"" implemented differently?"
-methods
-then remove values that are not duplicate
-are the same
-two arrays then remove values that are not duplicate
-"dates, but ""3 Dogs"" does not?"
-syntax error?
-error?
-user to login using before_action
-Login instead of Signup
-to Login instead of Signup
-smtp API with check_auth_response 534-5.7.14
-email from gmail smtp with check_auth_response 534-5.7.14
-with gmail smtp with check_auth_response 534-5.7.14
-class do?
-"""class << self"" do?"
-do in Ruby?
-How to create a scope by name that contains a string (case insensitive)
-How to create a scope by name that contains a string (case insensitive)
-query using scope by_name
-for local variables in ruby
-local variables?
-ruby-like get_defined_vars?
-object with a block
-with a block
-an object with a block
-be used inside a method of a Ruby class?
-called on an instance of a class?
-in ruby?
-an auto-incrementing column in the item returned from a create?
-auto-incrementing column in the item returned from a create?
-populate an auto-incrementing column?
-part
-does not accept registry part
-rails 4.2.1
-store data in memory and write to file one time?
-once?
-CSV.open store data in memory and write to file one time with Ruby?
-instead of encode_www_form
-x-www-form-urlencoded in URI query
-to use encode_www_form and x-www-form-urlencoded in ruby?
-x`?
-than << in Ruby's Benchmark.ips?
-the difference between << and << in Ruby?
-Token in User::ProfileController
-authenticity token in User::ProfileController
-POST request
-to load gem 'uglifier'
-Boot: load gem 'uglifier' failed to load
-gem 'uglifier'
-the default set of unsafe characters?
-default set of unsafe characters?
-obsolete?
-input for Edit
-Edit
-showing input for Edit
-v4 alpha2
-alpha2
-bundler
-"declared to be precompiled in production"""
-"precompiled in production"""
-"in production"""
-in Ruby 2.3?
-check if a nested hash element exists?
-2.3?
-a Ruby file?
-file?
-Ruby file?
-methods with an explicit receiver?
-to call a private method with an explicit receiver?
-call a private method with an explicit receiver?
-(::) operator in Ruby
-::) operator in Ruby
-of :: operator for methods in Ruby
-"""active_model_serializers"" ruby on rails"
-java.lang.NoClassDefFoundError: org/slf4j/helpers/MarkerIgnoringBase
-object has no attribute 'find_by_natural_key' error with ruby on rails
-OSX 10.9.2 bundle install?
-gem for bundle install - ERROR: Failed to build gem native extension
-bundle install pg gem
-an attribute in a model in rails
-a model in rails
-in PHP
-tests except one
-not working in RSpec
-except one
-class method in Ruby
-vs. class method in Ruby?
-method in Ruby
-not found
-Add path to directory on MacBundler/bundler
-Add path to directory
-"error - ""No such file or directory"""
-with bin/rails
-"Rails error - ""No such file or directory"""
-to Devise User model
-attribute in Devise User model
-Devise User model
-class without reopening the class
-method to class without reopening the class
-class
-"version"" with my mysql2 gem?"
-"library version"" with my mysql2 gem?"
-can I install mysql2 gem with Homebrew?
-"- ""require': cannot load such file -- rails_helper (LoadError)"""
-such file -- rails_helper (LoadError)
-"""require': cannot load such file -- rails_helper (LoadError)"""
-operator (&.) on nil?
-navigation operator (&.) on nil?
-nil object?
-to erase a sentence that has been buffered in the command prompt?
-"continue""?"
-"to continue""?"
-not work on windows 7
-though it seems to be installed
-libv8 is installed
-"the difference between the ruby ""begin ... end"" block?"
-in Ruby's begin ... end?
-"the ""begin ... end"" block in Ruby?"
-activated spring 1.3.3 on console app
-but requires spring 1.3.3
-"1.4.0, but requires spring 1.3.3"
-on Mac OS X 10.11
-installing Nokogiri gem with ruby on Mac OS X 10.11
-gem
-work?
-"high"" work?"
-"for index is too high"" work?"
-array.min so slow?
-slow in my ruby implementation?
-so slow?
-to log an operation in Mongoid?
-log messages?
-log an operation in Mongoid?
-boolean fields in Rails?
-boolean fields?
-validate boolean values in Rails?
-table with Scrapy
-in Scrapy and save the data in a row row?
-to save data from a table in scrapy
-safe navigation operator in ruby
-regular expression in ruby
-in Ruby
-Method#unbind and UnboundMethod#bind?
-Ruby?
-is the purpose of UnboundMethod#bind?
-Ruby for Rest API
-to generate a hash for an Rest API
-HMAC-SHA256 with Ruby on Rails
-test using RSpec for a wide pool of values?
-a test using a wide pool of values?
-do I test a Ruby script using a wide range of values?
-void return value expression used as a return value in Ruby?
-a || b` a void value expression in Ruby?
-in Ruby?
-and 'starts_with' always return the same result?
-same output?
-Ruby?
-can't install mysqltopostgres
-'mysqltopostgres.gemspec'
-file application/mysqltopostgres
-library version
-"error ""require': incompatible library version"""
-- require': incompatible library version
-array in Ruby
-into array in Ruby without using eval
-in Ruby
-upgrading to rails 4.2.5.1
-from rails 4.2.5 to 4.2.1
-`Cache.new` in rails 4.2.5.1
-did Rails change the name of my model?
-Rails change the name of my model?
-the name of my model?
-method `zone' for Time
-installing Time.zone
-for Time
-operators in Ruby
+Extending and Includeing Modules
+that are the same with other array
+arrays and remove the same values
+and remove the same values
+"invalid date, but ""3 Dogs"" doesn't?"
+invalid date?
+when using Date.parse?
+to original page after successful signup with Ruby on Rails
+to Signup instead of Login
+Signup instead of Login
 Ruby
-boolean operator in Ruby
-on Rails: Iterating through an array of objects and return the object if the attribute matches
-if an object has a certain attribute
-a certain attribute
-object in a payment system
-an object in a payment system
-a new object will be created in a payment system
-use Google Analytics client secret keys on Heroku
-keys to Heroku?
-JSON files to Heroku?
-(Rails 5 beta1.1)
+array elements by identity
+elements of an array
+- SMTP check_auth_response returns 534-5.7.14
+to another email address (smtp.gmail.com/ContinueSignIn) results in error 534-5.7.14
+when response is 504
+rails 4.2.4 with paperclip gem
+installing mimemagic
+"installing mimemagic:invalid gem: package is corrupt, exception while verifying: undefined method `size' for nil:NilClass (NoMethodError)"
+do in Ruby?
+class do and when should one use it?
+do?
+ILIKE syntax issue
+"on Rails, where ILIKE '%foo%', MySQL2::Error: You have an error in your SQL syntax"
+SQL syntax issue
+all local variables?
+ruby - loop through local_variables
+get_defined_vars and local_variables
+object with a block
+block
+a block
+with dup?
+I mix dup.tap() and dup.tap()?
+be called for the same class instance?
+a create?
+an auto-incrementing column?
+when using create?
+registry part: postgres:@ (or bad hostname?) (URI::InvalidURIError)
+part: postgres:@ (or bad hostname?) (URI::InvalidURIError)
+(URI::InvalidURIError)
+once?
+to file one-time?
+CSV.open write in memory?
+Symbols in Ruby
+in Ruby
+collection of symbols
+use x-www-form-urlencoded instead of encode_www_form
+exact online api access token?
+to use x-www-form-urlencoded instead of encode_www_form
+'<<=' or 'push'?
+[...]` or `[]= []`?
+or `arr.push(x)`?
+on Post request with Ruby/Devise
+Authenticity Token when POST request with devise
+Post request with Ruby/Devise
+while loading gem 'uglifier'
+gem 'uglifier'
+trying to load gem 'uglifier'
+what is the default use of REGEXP::UNSAFE?
+as 'obsolete'?
+in Ruby?
+input for Edit
+for Edit
+saving input for Edit
+2
+"find ""grunt/sauce_browsers.yml"" file (Error code: ENOENT)"
+bootstrap v4 alpha2
+fails with error: Asset was not declared to be precompiledin production
+update sprockets 4 asset was not declared to be precompiledin production
+"in production"""
+I dig a nested array in Ruby?
+Hash#dig in Ruby 2.3?
+in Ruby 2.3?
+cancel a require from another require?
+to cancel a require from another require?
+Ruby file?
+to call a private method with an explicit receiver in Ruby
+method with an explicit receiver in Ruby
+call a private method with an explicit receiver in Ruby
+in Ruby
+of :: operator in Ruby
+(::) operator in Ruby
+constant ActionCable::Server::Configuration::ApplicationCable (NameError)
+NameError
+ActionCable::Server::Configuration::ApplicationCable (NameError)
+gem
+pg gem
+install pg gem
+`attr_accessor` method
+in PHP
+attribute in rails
+in RSpec without single test?
+one
+every test in RSpec
+Class method?
+vs Class method
+method
+"found, cannot use gem 'path'"
+doesn't return a value from gem list --localGem
++ RubyGems: How to add path to gem?
+Warning: Running `gem pristine --all` to regenerate your installed gemspecs
+"Rails: ""require': incompatible library version"""
+library version
+Gem
+when using devise_parameter_sanitizer
+rails 3
+method to class
+to class
+class
+X?
+in ruby 2.3?
+Homebrew?
+Missing: How do I return a default value?
+Default Value
+with nil as default
+load such file -- rails_helper (LoadError)
+rails_helper (LoadError)
+-- rails_helper (LoadError)
+to Proc
+method chaining using a Proc
+name to method name in Ruby
+in Ruby
+nil Ruby objects
+navigation in Ruby
+erase a line after a key is pressed in the console?
+in the console to erase after a key is pressed?
+do I erase a line after a key is pressed in the console?
+is installed
+installs libv8 on windows but doesn't find v8
+libv8
+"the difference between ""begin ... end"" and ""def method"" in Ruby?"
+Ruby?
+"is the difference between ""begin ... end"" and ""def method"" in Ruby?"
+activated spring
+1.3.3
+your Gemfile requires spring 1.3.3
+Mac OS X 10.11.2
+gem on Mac OS X 10.11.2
+gem on Mac OS X 10.11.2
+"high."" work?"
+"Rubocop fix ""Assignment Branch Condition size for index is too high.""?"
+"is too high."" work?"
+is array.min so slow?
+so slow?
+array.min so slow?
+-- teamcity/spec/runner/formatter/teamcity/formatter (LoadError)
+load such file -- teamcity/spec/runner/formatter/teamcity/formatter (LoadError)
+teamcity/spec/runner/formatter/teamcity/formatter (LoadError)
+the MONGODB log?
+show full operation log in Mongoid?
+log?
+boolean fields in Rails?
+validate for boolean fields in Rails 3?
+boolean fields in Rails 3?
+and save the data in a row?
+an HTML table and save the data in a row?
+parse an HTML table and save the data in a row?
+Navigation Operator
+Ruby
+to avoid if conditional
+get all subclasses of a class in Ruby?
+creating instances of each other?
+of all subclasses of a class in Ruby?
+is the purpose of Method#unbind and UnboundMethod#bind?
+purpose of Method#unbind and UnboundMethod#bind do?
+in Ruby?
+SHA256 with Ruby
+with Ruby
+HMAC-SHA256 with Ruby
+returns a value based on a wide pool of values in RSpec?
+a wide pool of values in RSpec?
+wide pool of values in RSpec?
+b` void?
+void in Ruby?
+value expression?
+Ruby?
+always have the same output?
+same output?
+- cannot load such file -- bundler (LoadError)
+-- bundler (LoadError)
+-- bundler (LoadError)
+"+ devise: ""require': incompatible library version"""
+library version
+"+ devise: ""require': incompatible library version"""
+array without using Ruby's eval
+to array without using Ruby's eval
+Ruby
+upgrading to rails 4.2.5.1
+`cache' for nil:NilClass
+4.2.5.1
+"""shared_drives""?"
+Rails change the drive name of my model?
+my model name?
+active_support and active_support/time_with_zone
+for Time:Class
+active_support/time_with_zone
+conditional operators
+methods
+boolean in Ruby
+array
+of objects
+return object if attribute matches
+new payment object is created
+a new payment object
+that a new payment object is created
+to Heroku without pushing to git?
+to use Google Api Client Library with Heroku without pushing to git?
+keys to Heroku
+No such middleware to insert after: ActionDispatch::ParamsParser
 ActionDispatch::ParamsParser
-such middleware to insert after: ActionDispatch::ParamsParser
-difference between Hash.new(0) and Hash.new(0) in Ruby?
-the difference between Hash.new(0) and Hash.new(0) in Ruby?
-Hash.new(0) and Hash.new(0) in Ruby?
-when invoked by alias_method
-when invoked by alias_method
-called by alias_method
-403 Forbidden
-Can't verify CSRF token Authenticity with devise_token_auth
-"for action ""valid_authenticity_token"""
-migration mean?
-[5.0] mean in a Rails migration?
-5 do?
-two sets in Python?
-sets in Python?
-merge two sets in Ruby?
-CORS in Rails 3
-JSON with CORS header in Rails 3
-with CORS header in Rails 3
-instance method
-module in Ruby
-refers to the original method
-and __method__
-__callee__ and __method__?
-between __callee__ and __method__
-its dependencies installed
-have jekyll-paginate gem installed
-installed
-array contains only objects of a specific class
-same class
-of a specific class to be a single value
-sort_by in ruby on rails?
-contain nil in an array
-nil in Ruby?
-string in Ruby?
-whitespace from a string in Ruby?
-remove whitespace from a string in Ruby?
-object in Ruby?
-in Ruby?
-Ruby?
-in a module
-work
-concerns and super
-one liner while loop in ruby using the curly braces?
-while loop using curly braces?
-braces?
-hashing with Nori is dropping attributes of elements with no children
-with Nori is dropping attributes of deepest XML elements?
-elements
-a parameter that can be passed without one?
-that accepts a parameter without one?
-method that accepts a parameter without one?
-is the difference between `size` and `length` on strings?
-`size` and `length` on strings in ruby?
-in Ruby?
-RSpec?
-hashes in RSpec?
-two hashes in RSpec?
-variable is not blank in an else if condition
-not blank in an else if condition
-a variable is not blank in an else if condition
-Rails: TypeError: couldn't digest ActiveSupport::StringInquirer
-TypeError: couldn't digest ActiveSupport::StringInquirer
-error: TypeError: couldn't digest ActiveSupport::StringInquirer
 error
-URI?)
-URI(is not URI?)
-Google Service Account without the client_secrets file?
-without a client_secrets file?
-client_secrets file?
-deprecation warnings in Bundler exec rake -T?
-get deprecation warnings for bundle exec rake -T?
-for bundle exec rake -T?
-`respond_to'
-created with --api
-method `respond_to'
-pluck without .map every value
-with :map
-pluck without .map every value
-transient variables in rails?
-is a transient block in Rails?
-blocks used for?
-"randomly because suddenly English is not the default language anymore, with German and RSpec"
-locale
-"fails randomly with suddenly English, but I18n.locale doesn't seem to work"
-method `per_page`
-pagination error - List.all.order(created_at: :desc).order(created_at: :desc)
-`per_page`
-load such file' error
-such file' error
-file'
-`bundle exec cap`
-undefined method `bundle exec cap`
-method `trace' when using bundle exec cap
-found
-Ruby versions
-Mint
-on Docker?
-Ruby on Docker?
-docker?
-Gemfile.lock?
-Bundler from adding my Gemfile.lock file?
-I tell Bundler to leave my Gemfile.lock?
-when posting to API
-converting all the params of a JSON request to strings
-converted to strings
-Create a new file if it doesn't exist
-"file or directory, lstat 'w'"
-doesn't exist
-X El Capitan
-install thift gem after upgrading to OSX El Capitan
-El Capitan
-added to table in rails?
-table in rails?
-I add actions to table in rails?
-breakpoints?
+"and ""reduce({})""?"
+"""{}#"" constructors in Ruby?"
+difference between Hash.new and Hash.new?
+instance?
+multiple attributes from a model instance?
+a model instance?
+on Rails
+Year in Ruby on Rails
+Rails
+method name in __callee__
+bug?
+in Ruby?
+devise_token_auth
+"or 'confirm_success_message'"""
+"such file or directory"" (devise_token_auth)"
+[5.0] mean in Ruby?
+class mean?
+the meaning of [5.0] in Ruby?
+objects in Python?
+Python sets?
+two Python sets?
+JSON with CORS in Rails 3
+with CORS in Rails 3
+cors header in Rails 3
+extends self
+method
+the instance method
+between __callee__ and __method__
+__method__
+__callee__ and __method__
+1.9: Object.method.call vs Object.send?
+vs. `call`
+`call`
+of its dependencies installed (ruby)
+dependencies installed (ruby)
+have jekyll-paginate gem installed
+regex: non capture group not working
+capture group not working
+group not working
+a specific class
+class
+be an instance of a specific class
+"avoid ""ArgumentError: comparison of Array with Array failed"""
+nil values in Ruby
+that are nil?
 Ruby?
-in byebug in Ruby?
-see environment variable
-environment variable
+to remove whitespaces in a string?
+from a string in Ruby?
+Ruby
+a frozen kingdom in Ruby
+unfreeze a frozen kingdom in Ruby
+and ActiveSupport::Concern - use super in concerns like in normal modules
+to use super in modules
+method
+loop in ruby using curly braces?
+while loop in ruby using curly braces?
+do a one line while loop in ruby using curly braces?
+dropping element attributes
+Nori drops element attributes
+Parsing issues with Nori and Ruby
+method that accepts a parameter without one
+parameter
+optional parameter
+"between ""size"" and ""length""?"
+the difference between the .size and .length methods?
+"""size"" and ""length""?"
+RSpec?
+in RSpec?
+to compare two hashes in RSpec
+"not blank in an ""else if"" condition"
+"blank in an ""else if"" condition"
+"check if variable is not blank in ""else if"" condition"
+precompile of assets
+ActiveSupport::StringInquirer
+assets in Rails
+bad URI(is not URI?)
+URI(is not URI?)
+Rails Home controller
+from the client_secrets file?
+without the client_secrets file?
+authenticate my Google Service account without the client_secrets file?
+deprecation warning?
+deprecation warnings in Ruby/Rails?
+causes the deprecation warnings in Ruby/Rails?
+4.2
+Ruby on Rails 4.2
+method `respond_to' when using class-level respond_with
+Rails: .pluck without .map
+array without .map
+on Rails: .pluck without .map
+transient and evaluator in after(:create)?
+"before, after, traits, transients, and evaluator?"
+them?
+due to locale change
+fail randomly because of locale change
+language
+- undefined method `total_pages'
+method `total_pages'
+`total_pages'
+load such file -- zombie (LoadError)'
+such file' error with 'require'
+can't load such file -- zombie
+for main:Object/usr/local/rvm/gems/capistrano-rvm-0.1.2/lib/capistrano/tasks/rvm.rake:187
+undefined method `on' for capistrano-rvm-0.1.2
+`on' for capistrano-rvm-0.1.2
+gem: command not found
+install rubocop
+Ruby 2.3.0
+with id?
+find p tag by id
+can't find element by id
+on docker?
+Ruby on docker using calabash-android?
+docker?
+to Gemfile.lock?
+Bundler from touching my Gemfile.lock?
+tell Bundler to leave RUBY VERSION?
+to strings
+ParamaterValidator to inspect JSON request params before post
+when testing with ParamaterValidator
+open w mode
+was created by File.open with w mode
+file or directory
+X El Capitan
+OSX El Capitan
+Capitan upgrade
+added to table_for in rails?
+rails?
+a Rails 3 table?
+using the byebug gem?
+without breakpoints in Ruby?
+continue without breakpoints in Ruby?
 variable
-factory in FactoryGirl?
-after(:create) callback in FactoryGirl
-creation with FactoryGirl
-testing on localhost
+see my environment variable
+my environment variable
+dependency when using factory :identity and after(:create)?
+identities when using factory :identity and after(:create)?
+trigger after(:create) callback when using FactoryGirl
+how to test subdomains on localhost
 localhost
-daycare.no DNS server error
+testing
+install
+Rails 4
 in Rails 4
-gem in Rails 4
-`bundle install` in Rails 4
-(1.0/0) greater than (1.0/0) 109942066?
-does (1.0/0) > (1.0/0) > (1.0/0) > (1.0/0) > 109942066?
-infinite number?
-to avoid allow_any_instance_of?
-allow_any_instance_of?
-avoid allow_any_instance_of?
-of hash-with-ivars
-in hash-with-ivars
-hash-with-ivars and !ruby/hash-with-ivars
-to Google Cloud: Error Response: [4] DEADLINE_EXCEEDED
-a Error Response: [4] DEADLINE_EXCEEDED
-start Google Cloud deploy - Error Response: [4] DEADLINE_EXCEEDED
-a list of country and city by gem in ruby on rails?
-all country and city using gem in ruby on rails?
-of all countries and cities using gem?
-on Rails: How to define enum with same name?
-name in select
-with enum (with same name)
+understand by not being 10^9942067?
+number greater than 10^9942067?
+infinity in ruby?
+avoid allow_any_instance_of in Ruby?
+allow_any_instance_of in Ruby?
+to avoid allow_any_instance_of in ruby
+from hash-with-ivars
+hash-with-ivars coming from
+"""!ruby/hash-with-ivars: ActionController::Parameterselements: controller: static_pages"""
+Response: [4] DEADLINE_EXCEEDED
+[4] DEADLINE_EXCEEDED
+DEADLINE_EXCEEDED in gcloud cloud?
+from rails?
+to select country and city from rails?
+and cities from rails?
+name?
+with enum and different names
+on Rails: Enum with same name
+does &. mean in ruby?
 ruby?
-mean in this ruby code?
-mean in this ruby code?
-hash with multiple keys
-and also the keys in that key
-iterate through a hash with multiple keys and get all the values in that key
-How to access a constant held within a module's classes?
-within a module's classes?
-included in?
-to add a service directory in a Rails project?
-in a Rails project?
-my Rails project?
-Framework: How to add a watermark to movie while uploading to amazon s3?
-carrierwave to upload video to amazon s3
-movie in amazon s3
-to Capybara::Queries::SelectorQuery
+&. mean in ruby?
+- iterate over every N keys and values in a hash
+through every N keys in a hash
+also iterate over them
+including
+constant in a module across multiple classes?
+Access a constant in a module across multiple classes
+adding not nullable columns to a table
+existing table
+to a table
+I add service directory in Rails console?
+a service directory in config/application.rb in Rails?
+in Rails console?
+upload movie to amazon s3
+carrierwave to upload movie to amazon s3
+and carrierwave to upload a movie to amazon s3
+Capybara::Queries::SelectorQuery
 passed to Capybara::Queries::SelectorQuery
-parameters passed to Capybara::Queries::SelectorQuery
-"server running on host ""localhost"" (::1) and accepting TCP/IP connections on port 5432?"
+to Capybara::Queries::SelectorQuery
+in Ransack
+table by enum field using Ransack
+enum with Ransack
+server running on port 5432?
 on port 5432?
-"running on host ""localhost"" (::1) and accepting TCP/IP connections on port 5432?"
-among 50 total gem(s) (Gem::LoadError)
-not find 'cocoapods' (>= 0) among 50 total gem(s) (Gem::LoadError)
-'cocoapods' (>= 0) among 50 total gem(s) (Gem::LoadError)
-SSLv3_method - .../openssl.so (LoadError)
-.../openssl.so (LoadError)
-(LoadError)
-JavaScript's object initializer ES6 variable names
-ES6 object initializer ES6 shorthand
-equivalent of JavaScript's object initializer ES6 variable names
-Publishing current date and time
-published time
-to set published_at default
-ActiveRecord::Base.raise_in_transactional_callbacks= true?
-does config.active_record.raise_in_transactional_callbacks mean?
-warning in rails 5 with config.active_record.raise_in_transactional_callbacks?
-class instance variables from subclass instance
-inheritance of class/subclass variables
-and add variables to subclass objects
-"source"""
-5 - nil is not a valid asset source
+5432?
+gem(s) (Gem::LoadError)
+50 total gem(s) (Gem::LoadError)
+(Gem::LoadError)
+equivalent of JavaScript's object initializer ES6 shorthand
+JavaScript's object initializer ES6 shorthand
+object initializer ES6 shorthand
+Active Admin: Set default published_at
+published_at to current date?
+set the published_at to the current date/time?
+"warning ""ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement"""
+"ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement?"
+"is the ""Depreciation WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement""?"
+method for class and subclass
+arguments
+inheriting variables from superclass
 nil is not a valid asset source
+"not a valid asset source"" after upgrading to Rails 5"
+"a valid asset source"" after upgrading to Rails 5"
+I create a separate class file in Ruby?
 main file?
-classes into a separate file?
-into a separate file?
-in c#?
-encode emoji unicode string in c#?
-"server ""\ud83d\ude0e"""
-environment variable memory address
-memory address
+create a separate class file in Ruby?
+server
+on Rails)
+Rails)
+working Ruby 2.3.1
+Ruby version
+Ruby?
+variable memory address
 address
-install coveralls.io gem from Gemfile?
-to install coveralls.io gem from Gemfile?
+: print environment variable memory address
+to install a gem with coveralls.io in Gemfile?
+from Gemfile?
 Gemfile?
-doesn't load on page render
-"trouble with ""best_in_place"""
-and Turbolinks
-is the rspec binstub intended to do?
-"""#!/usr/bin/env"" do?"
-rspec binstub do?
-parameters are not returning params?
-are params being false?
-false?
-notation to make an array of strings in ruby?
-use percent notation to make an array of strings in ruby?
+working
+on page render
+"turbolinks 5, jquery, turbolinks 5, turbolinks 5"
+How to use rspec binstub
+'rspec' binstub do?
+"""#!/usr/bin/env"" mean?"
+pry but not pry params?
+do I get params: false when I put in a binding.pry at the top of my controller's update action?
+false
+methods
+chr and ord values
+understand the Ruby chr and ord methods
+or Python?
+Python?
+keyword arguments in Javascript or Python?
 in ruby?
-old version
-deleting my old version
-gemfile.lock is always deleting RUBY version
-do not re-enable it?
-"Rubocop rule is in-line, does it disable Metrics/LineLength?"
-"disabled, can it be disabled for the rest of the file or just the scope of the current file?"
-array in reverse order
-over an array in ruby and get two values
+strings in ruby?
+notation to make an array of strings in ruby?
+Gemfile
+install always deleting RUBY VERSION
+always
+"Rubocop rule is in-line, will it be disabled for all subsequence files?"
+"rule is in-line, will it be disabled for the rest of the file, or is it in-line disable limited to the scope of the current file?"
+"disabled in-line, will it be disabled for the rest of the file, or is it in-line disable limited to the scope of the current file?"
+array and get two values
+a ruby array
 ruby array
-it so strange with .try() in ruby?
-"to use ""&."" in ruby?"
-"than ""try"" for ruby expressions?"
-converting special characters
-in Ruby 2.3
+with try(:method) over try(:method)
+than using try(:param) in Rails?
+try(:method) in Rails?
+converting special characters to unicode in Ruby 2.3.0
+strings
 special characters
-work?
 const_get work?
 work?
-callback when destroying an object
-Rails 3
-object
-to filter data in rails?
-apply filters in rails?
-way to test if params exist in rails?
-array of objects from js to rails
+Ruby's const_get work?
+destroy
+rails
+after_commit callback when destroying an object
+way to handle multiple if/else conditions in rails
+if/else in rails
+apply filters to serverside datatable in rails
+a FactoryGirl definition
+attributes on a FactoryGirl define
+of an attribute in a FactoryGirl definition
+update
+a boolean attribute
+testing a boolean attribute
+rails
+objects from js to rails
 of objects from js to rails
-js to rails
-(undefined method `for'
-for #<Devise::ParameterSanitizer>
-Error - undefined method `for'
-arguments?
-how to pass an argument to a method?
-methods with arguments?
-unable to build gem native extension
-to build gem native extension
-fails
-denied for relation
-relation
+undefined method `for'
+ParameterSanitizer not working
+#<Devise::ParameterSanitizer:0x007f5968e0a920>
+pass arguments to a method?
+How to pass arguments to a method?
+methods?
+"failed, exit code 2"
+or directory
+to build native extension
 schema_migrations
-string literal check
-literal check on rubocop
-checking of frozen string literal comment. Frozen string literal comment. frozen_string_literal: false
-ActiveRecord and ActiveRecord::Relation
+permission denied for relation
+ERROR: permission denied for relation
+string literal check on rubocop
+checking of 'frozen string literal' on rubocop
+on rubocop
+object?
+ActiveRecord::Relation
 and ActiveRecord::Relation
-between ActiveRecord and ActiveRecord::Relation?
-nan in Ruby on Rails
-is NaN in Ruby on Rails
-a variable is equals to NaN in Ruby on Rails
-is NaN in Ruby on Rails
-nan in Ruby on Rails
-a variable is equals to NaN in Ruby on Rails
-- ActionController::InvalidAuthenticityToken with devise
-with devise
-5 - ActionController::InvalidAuthenticityToken with devise
-add %20 in Ruby's params.to_param method
-in Ruby?
-'+' with Ruby's params.to_param() method
+is NaN
+a variable is equals to NaN
+if a variable is NaN
+with Devise
+5 and devise ActionController::InvalidAuthenticityToken
+and Devise - ActionController::InvalidAuthenticityToken
+instead of '+'?
+replace '+' with %20 in URL params?
+to replace '+' with %20 in URL params without using gsub?
+new window on click of submit button using ruby on rails
 ruby on rails
 click of submit button using ruby on rails
-on click of submit button using ruby on rails
-"Rails 5 - You must provide a session to use OmniAuth. : Error ""You must provide a session to use OmniAuth."""
-a problem with OmniAuth::NoSessionError (You must provide a session to use OmniAuth)
-5 - You must provide a session to use OmniAuth
-registry for ruby on rails 5.0
-.gitlab.ci.yml file
-read property 'docker_images' of undefined
-error: Failed to build gem native extension
-gem native extension
-native extension
-on page load
-requests pending
+"""You must provide a session to use OmniAuth"" in Rails 5"
+5 and React
+appname --api
+Could not find a JavaScript runtime
+Gitlab CI runtime error
+runtime
+extension
+ERROR: Failed to build gem native extension
+- installing nio4r 1.2.1 with native extensions
 pending on Google Chrome
-rest api: How to populate field within transactions csv export?
-Title
-API: How to populate field within transactions csv export?
-even though I just started it
-Sprockets
-"server won't start - Sprockets error ""Please register a mime type using `register_engine` is deprecated. Please register a mime type using `register_mi`."""
-2.1.2
-gem install failing with ruby-2.1.2
-"not installed, requires ruby-2.1.2"
+on Google Chrome
+Chrome but not in Firefox
+ruby sdk and credit card export
+column within transactions csv export
+"Credit Card ""Item Title"" Field"
+on register_engine
+start (WARNING: Sprockets method `register_engine` is deprecated)
+Ruby 5.0.0 application won't start (WARNING: Sprockets method `register_engine` is deprecated. Please register a mime type using `register_mime_type` or `register_transformer`)
+with RVM and ruby-2.1.2
+requires Ruby version >= 2.2.2
+Ruby version >= 2.2.2
+in FactoryBot factories?
+factories?
 transient do in FactoryBot factories?
-is the purpose of transient do in FactoryBot factories?
-the purpose of transient do in FactoryBot factories?
 in rails 5
-respond_to in ruby on rails 5
-controller
-button in a form in ruby
-in a form in ruby
-to disable a button in a form in ruby
-number for each line on a string in ruby?
-on a string in Ruby?
-for each line on a string in Ruby?
-"Rails 5.1""?"
-warning: Method to_hash is deprecated and will not inherits from hash?
-"removed in Rails 5.1""?"
-a table in schema
-schema
+method respond_to
+app
+button in ruby on rails form?
+submit button in a ruby form?
+disable a submit button in ruby?
+Ruby?
+each line on a string in Ruby?
+number for each line on a string in Ruby?
+Cybersource payments?
+a Cybersource payments request with Savon and Ruby?
+Payments?
+"be removed in Rails 5.1""?"
+"is deprecated and will be removed in Rails 5.1""?"
+"the deprecation warning ""Method to_hash is deprecated"" in Rails 5?"
+schema in rails
+ruby on rails
 in rails
-a new column in one of my table in Rails?
-Rails?
-table in Rails?
-5.0.0 sidekiq and devise
-Using Sidekiq and devise
-and sidekiq
-Unknown ruby interpreter version (do not know how to handle)? RUBY_VERSION
+existing table in Rails?
+new column in a table in Rails?
+5?
+sidekiq logging out user
+4.2.5 sidekiq and devise
+login
+to collect paths to files in two directories using Dir.glob in Ruby?
+collect files in two directories using Dir.glob in Ruby?
+Dir.glob?
+"version"" error?"
 "(do not know how to handle)"" error?"
-"to handle)"" error?"
-to avoid frequent Spikes (~every 1 hour) in Rails?
-in Rails?
-frequent spikes (~every 1 hour) in Rails application?
-built
+"not know how to handle)"" error in jekyll?"
+prevent unexpected SQL queries to Postgres database on Rails/Heroku?
+calls in Rails 1.5/Heroku?
+Postgres?
 its extensions are not built
-when upgrading Ruby to 2.3.1
-string?
-initialize OpenSSL::PKey with a public key string?
-do I create an OpenSSL::PKey object initialized with the following public key string?
+built
+2.3.1 warnings on upgrading Ruby to 2.3.1 after upgrading to ruby 2.3.1
+public key string?
+object initialized with public key string?
+key string?
+in ruby
+class inheritance in ruby
 Ruby
-vs Person in ruby?
-Person in ruby?
+form object refactor pattern?
+Form Object ReSharper
+name in initialize
+see layouts folder
+layouts directory not there
 layouts directory
-not seeing _layouts directory
-directory
-files in a folder
-a pattern
+in a folder
 pattern
-a single method?
-all values of a particular column in ActiveRecord?
-get all values of a particular column in ActiveRecord?
-within a custom matcher?
-a custom RSpec matcher?
-matcher?
-has_many and accepts_nested_attributes_for
-for has_many and accepts_nested_attributes_for
-How to access nested attributes on has_many
-a gem is requirable?
-bundled?
-to determine if a gem is requirable?
-resque-retry using rspec?
-using rspec?
-in RSpec?
-Unexpected token: name (autoRegisterNamespace)
-+ Heroku: Unexpected token: name (autoRegisterNamespace)
-5 + Heroku: Unexpected token: name (autoRegisterNamespace)
-"rake db:migrate returns error: Specified 'postgresql' for database adapter, but the gem is not loaded"
-"::LoadError: Specified 'postgresql' for database adapter, but the gem is not loaded"
-"Rails - can't deploy my project - rake aborted! Gem::LoadError: Specified 'postgresql' for database adapter, but the gem is not loaded"
-rvm
-by rvm
-B.dylib extension for ruby-2.3.0
-for relation
-[archiver(db)] query failed: ERROR: permission denied for relation
+from a folder
+all values of an object in ActiveRecord?
+with column_names?
+values of an object in ActiveRecord?
+a custom matcher?
+I use a custom RSpec::Matchers::BuiltIn matcher?
+built-in RSpec matcher within a custom matcher?
+How to get current object in params?
+on has_many and accepts_nested_attributes_for
+Controller?
+determine if a gem has been bundled?
+gem has been bundled?
+a gem has been bundled?
+existing foreign key in rails
+foreign key in rails
+migration
+PORO or not?
+object?
+an object is PORO or not?
+with rspec 3?
+with Resque and Resque-rspec
+test retry with Resque and Resque-rspec
+on Mac: ExecJS::ProgramError: SyntaxError: Unexpected token: name (autoRegisterNamespace)
+5 on Mac: ExecJS::ProgramError: SyntaxError: Unexpected token: name (autoRegisterNamespace)
+token: name (autoRegisterNamespace)
+messages
+messages
+- How to add custom messages to the ActionController::BadRequest?
+is already loaded
+"- Gem::LoadError: Specified 'postgresql' for database adapter, but the gem is not loaded"
+"Error - Specified 'postgresql' for database adapter, but the gem is not loaded"
+code
+VScode
+rspec test on vscode
+symbols for ruby-2.3.0 by rvm
+Mac OS X
+installing ruby-2.3.0
+failed: ERROR: permission denied for relation
+query failed: ERROR: permission denied for relation
 denied for relation
-Ruby's map method
-map method
-in map function in Ruby
-'to_a'
-"when using ""to_a"""
-"using ""to_a"""
-line characters
-whitespace from new line characters
+map function
+map function
+in map function
+debugging has_many associations
+to_a in has_many
+includes and joins
+with white space
 characters
-mean in a Ruby regexp?
-in a Ruby regexp?
-pattern?
-purpose of do in Ruby?
-do in Ruby?
+regex replace new line characters
+create an extra database?
+data locally?
+it better to store the data locally?
+in Ruby regular expressions?
+\k<name+0> mean in Ruby?
+Ruby regexp?
+"of ""do"" in Ruby?"
 """do"" in Ruby?"
-not available for gem 'bundle install'
-starting gem - Docker
-repo does not exist for gem 'sinatra': [Errno 2] No such file or directory: 'lib/gemjs'
-installation fails on MacOS 10.11.5
-Magick on MacOS 10.11.5
-"""ImageMagick was configured with ImageMagick 6.8.5 but ImageMagick 6.9.5 is in use"""
-get a default value from a hash in ruby
-to get a default value from a hash in ruby
-in ruby?
-Ruby
-an array of hashes in Ruby
-highest value in an array of hashes
-result set
-to rspec
-a result set to a RSpec attribute or attribute
+Ruby?
+git://github.com/alexch/rerun.git is not yet checked out
+not yet checked out
+checked out. Please run `bundle install` before trying to start your application
+ImageMagick 6.9.5-9 is in use
+"update fails with ""ImageMagick 6.9.5-9 is in use"""
+"install ""rmagick"", but ""ImageMagick 6.9.5-9 is in use"""
+make a LIKE clause case-insensitive?
+a LIKE clause case-insensitive
+case-insensitive
+while using bundle install ruby 2.3
+cannot use ruby 2.2.2 through RVM
+use it
+from a hash in ruby?
+ruby?
+hashes in ruby?
+and print the value for that hash
+array of hashes and print the value for that hash
+value in an array of hashes
+test result
+a RSpec test
+parameters to rspec before(:all)
 "return"""
-"return"" vs. ""and return"""
-"""and return"""
-is not allowing rspec
-rspec in ruby on rails 5
+"""def return"" (avoiding double-render-errors)"
+"vs. ""return"" with no double-render-errors?"
+Rspec 4
+is not allowing rspec to run
 5
-numbers
-if string contains only numbers
-string contains only numbers
-to use image_tag instead of img src in index.html.erb
-index.html.erb
-in index.html.erb to <img> tag
-define a class in Ruby on Rails 3?
-I define a class in Ruby on Rails 3?
-variables in Ruby on Rails 3?
-to remove/disable user/sign_up path in Devise
-Up Path in Devise
-remove/disable user/sign_up path in Devise
-master:refs/remotes/origin/master -n --depth=1
-during git fetch
-install command failed
-"the Command ""Readline"""
-"to execute ruby command `require': Library not loaded: /usr/local/opt/readline/libreadline.bundle, 9: Library not loaded: /usr/local/opt/readline/liblibreadline.bundle, 9: Library not loaded: /usr/local/opt/readline.bundle"
-"load readline() with `require': dlopen(/Users/parkerharris/lib/readline.bundle, 9): Library not loaded: /usr/local/opt/readline/liblibreadline.bundle, 9): Library not loaded: /usr/local/opt/readline/liblibreadline.bundle, 9): Library not loaded: /usr/local/opt/readline`"
-fails
-fails
-fails
-and .floor example
-ceil and floor
-.floor example
-variant
-template for this request format and variant
-format and variant
-+@ mean?
-mean?
+to implement LinkedList in Ruby
 in Ruby?
+LinkedList in Ruby
 Ruby
-with Ruby
-JSON file with Ruby
-certain actions with Grape in Rails?
-in Grape in Rails?
-filter with Grape in Rails?
-with spaces or multiple words
+numbers
+(Ruby)
+between assert_in_delta and assert_in_epsilon?
+is the difference between assert_in_delta and assert_in_epsilon in Ruby?
+assert_in_epsilon?
+a Time/DateTime object in Ruby
+1 millisecond to Time/DateTime object in Ruby
+object in Ruby
+use image_tag instead of the img src
+"... %> to <img src=""..."" />"
+app
+Ruby class variables in a controller method?
+I use class variables in Rails 3?
+variables in rails 3?
+Path in Devise
+user/sign_up path in Devise
+Devise
+--depth=1
+fetch origin master:refs/remotes/origin/master -n --depth=1
+during: git fetch origin master:refs/remotes/origin/master -n --depth=1
+readline
+command: `Library not loaded: /usr/local/opt/readline/lib/libreadline.6.dylib (LoadError)
+load readline.bundle in Mac OS X 10.9.2
+install nokogiri fails
+fails without problembundle install
+building native extension
+ceil and floor
+vs .floor
+.floor behavior
+for this request format
+this request format
+request format
+mean in Ruby?
+in ruby?
+a method name in Ruby?
+from an array of hashes in Ruby
+an object within a JSON file with Ruby
+create an object within a JSON file with Ruby
+catch Grape before filter in a clean way?
+to handle Grape before filter in a clean way?
+with Grape?
+with spaces
 tags with spaces or multiple words
-spaces or multiple words
-without converting to Symbols?
-to prevent Ruby from converting string keys to symbols?
-prevent Ruby from converting string keys to symbols?
-"alias_method_chain is deprecated. Please, use Module#prepend instead"
-"deprecated. Please, use Module#prepend instead"
+have spaces
+with string keys without converting the key to symbols
+string key without converting to symbols
+key without converting to symbols
 "is deprecated. Please, use Module#prepend instead"
-I need to add a directory that doesn't exist to my path for rbenv to work?
+"deprecated. Please, use Module#prepend instead"
+"alias_method_chain is deprecated. Please, use Module#prepend instead"
 PATH for rbenv to work?
+add a directory to my path for rbenv to work?
 to my PATH for rbenv to work?
-class name without namespace in Ruby?
-in Ruby?
-to get class name without namespace in Ruby?
-not installed
-is not installed
-build failed Ruby ruby-2.2.5 is not installed
-standard (non-standard) ports
-non-standard port (redis-cli)
-outside of standard (non-standard) port
-arrays in Ruby?
-concatenate multiple arrays in Ruby?
-in Ruby?
-indexing vs creating the indexed data
-and Searching
-searching and creating
-rb_sysopen - big_file (Errno::EMFILE)
-open files?
-(Errno::EMFILE)
-can I update a boolean attribute in a Rails controller?
-Ruby on Rails?
-Rails controller?
-Remove Underscore from Holidays
-underscore from holidays
-from Holidays
-error in rails c
-not loaded: libc.16.dylib
-available after running rails c
-thread pools
-in concurrent-ruby thread pools
-pools
-can't delete production database
-a production database
-a production database
-of arguments for @object.exists?
-Stub S3 File Exists?
-the Aws::S3::Errors::Forbidden error
-"option's default must match its type"""
-"must match its type"""
-rails
-Ruby have a side effect?
-concatenating a string with shovel (?) work in Ruby but not in this example?
-have a side effect?
-argument type: Time
-Unsupported argument type: Time
-and DateTime when using as_json
-constants in rails
-on rails 5
-to get autoload paths for a rails project?
-code layout
-code layout vs. RSpec code layout
-for RSpec code layout - how to reduce block size?
-file in Ruby
+namespace?
+get class name without namespace in Ruby?
+the name of a class without its namespace in Ruby?
+installed
+Ruby ruby-2.2.5 is not installed
+fails with (between before_deploy and deploy)
+wrong port
+to Redis in a non-standard port
+over port 9002
+Ruby
+arrays in Ruby
 in Ruby
+Rails gem and indexed data
+Gem: What is the purpose of using index: { number_of_shards: 1 } and dynamic: 'false'?
+use cases
+(Errno::EMFILE)
+files
+open files
+in a Rails controller?
+action?
+a boolean attribute in a Rails controller?
+Python
+"{""a""=>{""b""=>{""c""=>{""a""=>{""b""=>{""a""=>{""b""=>{""c""=>{""a""=>{""b""=>{""a""=>{""b""=>{""a""=>{""b""=>{""a""=>{""b"
+"YAML ""key"""
+capitalize each word in a hash
+from string
+How to capitalize each word in a hash?
+(LoadError)
+/usr/local/opt/readline/lib/libreadline.6.dylib (LoadError)
+not loaded: /usr/local/opt/lib/libreadline.6.dylib (LoadError)
+pools
+in concurrent-ruby thread pools
+thread pools
+to protect production database
+5 - ActiveRecord::ProtectedEnvironmentError: You are attempting to run a destructive action against your 'production' database
+production database
+an error
+"given 0, expected 2"
+- How do I stub out the `exists?` method in ruby?
+trying to run rails controller Welcome index
+"its type. (ArgumentError)"" when installing Ruby on Rails"
+on Rails
+(Ruby)
+in a case statement in Ruby?
+statement in Ruby?
+"operator (?) result in ""mutated"" assignment?"
+Ruby shovel (?) operator not mutate the state of a variable?
+"""<<"" work as a side effect?"
+type: DateTime
+Time
+and DateTime
+to autoload a Ruby module in a rails 5 project
+in a rails 5 project
+load constant files in a rails 5 project
+in RSpec
+nested RSpec blocks
+and nested RSpec blocks
+a text file
 JSON file in Ruby
-`yield`?
-calling `yield` in Ruby?
-yield from being called after a return statement?
+from text file
+value
+from dropdown
+filter for integer value
+Ruby controller
+in Rails
+access variables in views
+all overlapping matches within a string
+matches within a string
+matches within a string
+Ruby's safe_yield and call_then_yield?
+with Ruby's safe_yield and call_then_yield?
+and proc in Ruby
 for Polymorphic Associations in Rails
-Associations in Rails
-Joining Tables for Polymorphic Associations in Rails
-write scope
-scope that belongs to a model
-to write scope
-"for `--jbuilder`; got true"" error in Rails?"
+Polymorphic Associations in Rails
+Polymorphic Associations in Rails
+scope for a model that belongs_to another
+How to write scope for belongs_to association
+How to write scope for belongs_to association
+"default value for `--jbuilder`; got true (boolean)"""
+"for `--jbuilder`; got true (boolean)"""
 Rails project
-"value for `--jbuilder`; got true"" error in Rails?"
-How to add Twilio messaging with Ngrok?
-How to add Twilio messaging with Ngrok?
-no action
-there any reason to make the json gem version 1.8.3 fail to install?
+been defined?
+"""def reply"" and ""authenticate_user! should be defined by devise"""
+should be defined by devise
 app on Ruby 2.4?
-json gem version 1.8.3 on Rails 4.2?
-Header before Writing Body?
-before reading body
-body
-characters in a string using Ruby?
-replace characters in a string using Ruby?
-in a string using Ruby?
-error - Unable to find Mozilla geckodriver
-mozilla geckodriver
-Selenium and Mozilla geckodriver
-or and without parentheses?
-location of method calls in Ruby?
-parentheses?
-and do end
-with do end
-loop do not work
-method freezes the value of an object
-freeze is not working
-"to an object, why is it modifying the frozen string?"
-ActiveRecord 5 with Sinatra
-with ActiveRecord::Base.clear_active_connections
-5 with Sinatra
-sanitisation based on user input
-- raw PostgreSQL queries
-raw SQL: how to run raw PostgreSQL queries without having to use sanitize?
-faster than inject(:+)?
-faster than inject(:+)?
-there an alias for `Range#sum` faster than `inject(:+)`?
-trying to load gem 'uglifier'
-Gem load error - wrong argument type Class (expected Module)
-loading gem 'uglifier'
-deprecated
-model in rails
-in rails
-"do I get an error ""Unable to autoload constant Foo::Bar, expected /app/models/foo/bar.rb to define it"" in development mode?"
-fail to autoload constants in development mode?
-"""unable to autoload constant Foo::Bar, expected /app/models/foo/bar.rb"" work in development mode?"
-irb_ in Ruby
-in IRB
-in IRB
-value found for parameter 'in' of type 'numpy.float64'
-in BigQuery
-for parameter 'in' of type 'numpy.ndarray'
-Rails 4.0.8 in Rails 4.0.8
-trace
-4.0.8 and Rails 5.0
-on Array
-Hashes
+2.4?
+on Ruby 2.4?
+HTTP: How to crawl a URL before it's streaming audio?
+before it's streaming audio
+it's streaming audio
+do I use Ruby's gsub! method to replace characters in a string using a hash?
+in a string using Ruby's gsub! method?
+characters in a string using Ruby's gsub! method?
+find Mozilla geckodriver
+Selenium - unable to find Mozilla geckodriver
+to find Mozilla geckodriver
+or without parentheses in Ruby?
+parentheses in Ruby?
+minimum precedence of method calls in Ruby?
+delimiters
+in irb
+block delimiters do not work in irb
+an object. Why does it work?
+modify an object. Why is it freezing my string?
+string
+5
+in Sinatra 4 and ActiveRecord 5
+Sinatra 4 and ActiveRecord 5
+Postgres/Rails: Using 'raw query' adapter that runs raw queries?
+Preparation for raw PostgreSQL queries
+Postgres/Rails: Using 'raw query' adapter that runs raw queries?
+inject(:+) in Ruby?
+much faster than inject(:+) in Ruby?
+so much faster than inject(:+) in Ruby?
+load the gem 'uglifier'
+while loading gem 'uglifier'
+to load the gem 'uglifier'
+constant ::Fixnum is deprecated
+"model, expected string default value for '--jbuilder'; got true"
+models
+"fail to autoload constant Foo::Bar, expected /app/models/foo/bar.rb to define it?"
+"to autoload constant"" and ""expected /app/models/xxx/bar.rb to define it""?"
+editing?
+Ruby
+of variable declaration in Ruby
+behavior of variable declaration in Ruby
+STRING and {ARRAY<STRING>}
+types STRING and {ARRAY<STRING>}
+for operator IN for argument types STRING and {ARRAY<STRING>}
+- stack level too deep (SystemStackError)
+5.0: stack level too deep (SystemStackError)
+level too deep
+to loop on an Array of Hashes
 method `[]' for nil:NilClass
-should `Array.new` be replaced with `Array.map` in Ruby?
-an explicit array creation?
-Array.new replace a block?
-- Failed to build gem native extension
-Install on Ubuntu
-2.4.0
-way to search for large list of strings
-if a string contains one or more elements in an array
-within a given list
-with ruby on rails
-after update
-libmysqlclient.so.18: cannot open shared object file: No such file or directory
-emoji
-character
-issue
-resource
-cors with multiple origins
+Array of Hashes
+Array.new?
+can I use .times.map with a block?
+suggest .times.map to be replaced?
+Error
+Ubuntu 12.04
+Install Error
+list of strings contains any elements in a list of strings
+a word is contained within a huge list of strings
+if a list of huge strings contains a number of common words
+using regular expressions?
+if a string contains at least one letter?
+hast at least one letter?
+update - libmysqlclient.so.18: cannot open shared object file: No such file or directory
+rails 3.2.12
+cannot open shared object file: No such file or directory
+(wkhtmltopdf-binary gems)
+result
+and wkhtmltopdf-binary gems
+rack-cors resource with multiple origins
 and rack-cors
-Postman
-for Authentication
-not allowed to create RESTful API
-in ActiveSupport 'Duration can't be coerced into Integer'
-Duration can't be coerced into Integer'
-ActiveSupport 'Duration can't be coerced into Integer'
-monkey patching in ruby on rails?
-monkeypatching in ruby on rails?
-patching in a rails app?
-by unscoped_associations in Rails
-unscoped_associations
-unscoped_associations gem in Rails
-a composite primary key in Rails?
-keys in ruby on rails?
-Ruby on Rails?
-your request environment
-on your request environment
-MissingWarden on Home#show
-a web app
-Ruby app running on Mac OSX 10.12.3 Sierra
-with ruby and webrick
-warning: already initialized constant OpenSSL::VERSION
-"constant OpenSSL::VERSION"""
-error: already initialized constant OpenSSL::VERSION
-is running at the same time?
-happens if there are multiple threads running at the same time?
-thread is running in Rails?
-2.4.0 open-uri error
+rails how to allow different resources for different origins
+host error while updating gems
+updating gems
+error while updating gems
+InvalidAuthenticityToken when trying to create RESTful API
+when trying to create RESTful API
+Api::V1::UsersController#create
+gem 'devise'
+to run migrations using devise gem
+be coerced into Integer
+monkey patching String in a Rails app?
+patching is used in a Rails app?
+to put monkeypatch in a rails app?
+in production
+Rails app
+unscoped associations gem
+to allow / receive / and return in a module
+a module
+(and after) in a module
+as parameter
+hash to find values
+- how to find the values of an array given as a block parameter
+in Rails?
+primary keys in Rails?
+make composite primary keys in Rails?
+the Warden::Proxy instance on your request environment
+environment
+instance on your request environment
+"the point of the ""method"" method in Ruby?"
+"the ""method"" method in Ruby?"
+"point of the ""method"" method in Ruby?"
+data from a ruby app
+"build fails on ""localhost:4000 2"""
+response
+5.0.1 openssl.bundle: warning: already initialized constant OpenSSL::OPENSSL_VERSION
+openssl.bundle error
+"OpenSSL::OPENSSL_VERSION_NUMBER"""
+thread is running?
+Ruby Concurrent::Promise?
+one thread is running?
 expired
 execution expired
-Python but not in C#?
-in Python but not in C#?
-does Random.new(1).rand == Random.new(1).rand => true but Random.new(1).rand == Random.new(1).rand => false?
-Script
-Fastlane scripts
-variable in Fastlane script
-to build gem native extension
-libv8: ERROR: Failed to build gem native extension
-gem native extension
-and webpacker with existing rails app
-webpacker
-with webpacker
-oj: Failed to build gem native extension
+open-uri: execution expired
+fine in Python but not in C#?
+number generators in Python fail to produce random numbers?
+Python's Random.new(1).rand == Random.new(1).rand == Random.new(1).rand => true but C#'s Random.new(1).rand == Random.new(1).rand == Random.new(1).rand == true?
+Passing To Fastlane Script
+Fastlane after_all
+variables in a Fastlane script
 Failed to build gem native extension
-installing oj:
-for gem 2.4.0
-installing json: Failed to build gem native extension
-json: Failed to build gem native extension
-do I access Google Contacts via the Google API client?
-how do I access Google Contacts via ruby?
-access Google Contacts via ruby client
-rbenv
-installing octopress rbenv
-install octopress rbenv
-and allow nested keys
-nested hash keys to OpenStruct
-OpenStruct
-the error: An error occurred while installing nio4r (1.2.1)
-"resolve ""error while installing nio4r (1.2.1)"" error in Gemfile?"
-"-v 1.2.1"" error?"
-column in ruby on rake db
-default boolean column in migration
-in ruby on rake db
-route in rails 4 middleware?
-get route as /api/products/:id or controller and action of that route in a middleware of Rails 4?
-rails 4 middleware?
-Debugger return different values than the original code?
-values than the original code?
-different values than the original code?
-according to timestamp field in rails
-in rails
-by timestamp in rails
-"does ""No binary rubies available for: osx/10.12/x86_64/ruby-2.4.0.Continuing with compilation"" mean?"
-mean?
-"rubies available for: osx/10.12/x86_64/ruby-2.4.0.Continuing with compilation"" mean?"
-database a query was made against
-indicate which database a query was made against
-to which database
-value in ruby on rails?
-by integer value?
-string name of enum state by integer value?
-in Ruby
-precedence in Ruby?
-in Ruby
-with Psych::BadAlias?
-locale files? Psych::BadAlias: Unknown alias: item_attributes
-my YAML.safe_load failing with Psych::BadAlias: Unknown alias: item_attributes?
-when dropping parenthesis in Ruby on method call
-"""unexpected '.'"" error in split method"
-parentheses in Ruby
-param -> { where(active: true) }
-is associated with the -> method call
-call
-Start
-My Machine
-Solr will not start on my machine
-a larger string in Ruby
-of substrings in a string
-in a larger string
-with Devise in Rails 5
-Audited or Paper Trail
-& Devise
-Clicking an element by class name
-by class name
-clicking an element by class name
-use instead of rendering :text in a Rails view template?
-text: t`)?
-the t() function?
-from a Rails model relation
-relation
-a Rails model relation
-list?
-called like this?
-in this case?
-on Rails
-to hash
-to convert unpermitted parameters to hash
-run bash with RVM on Windows?
-on Windows?
-Docker?
-gem on MacOS Sierra
-MacOS Sierra
-Sierra
-arrays of hashes into one array of hashes in Ruby?
-merge two arrays of hashes into one array of hashes in Ruby?
-hashes into one array of hashes in Ruby?
-method `[]' for nil:NilClass (NoMethodError)
-'show'
-fails to show action
-ENV variables
-in ENV variables
-logic in ENV variables
-"quoted string"" when running 'git push heroku master'"
-Heroku
-"'load_defaults'"" after git push heroku"
-incorrect rails version
-"of arguments (expected 1, got 2)"
-"number of arguments (expected 1, got 2)"
-use react-router on a single-page application with react-router and ruby on Rails back-end?
-a single page application with react-router and ruby on Rails back-end?
-API mode
-"the new Ruby 1.9 hash syntax to support :status => true, :reload => true"
-ruby 1.9 hash syntax
-new Ruby 1.9 hash syntax
-"""new' for ""Rack::Cors"": String (NoMethodError)"
-"solve ""undefined method `new' for ""Rack::Cors"": String (NoMethodError)""?"
-"method `new' for ""Rack::Cors"": String (NoMethodError)"
-find the earliest index of an array in another array?
-in another array?
-an element in an array in another array?
-- Cannot visit Integer
-Rails app - Cannot visit Integer
-app - Cannot visit Integer
-undefined method `back_url'
-found
-undefined method `back_url'
-the slashes at the start and end of the string
-slashes
-in a specific format in Rails 5?
-ActionDispatch::systemTestCase
-Tests with ActionDispatch::systemTestCase
-ActionDispatch::systemTestCase with RSpec and Capybara
-after upgrading to High Sierra
-"""bad interpreter"""
-Sierra
-rendering partials results in drastic performance difference?
-a partial faster than the other?
-slow?
-developer token with an ES256 JWT?
-to create a developer token with an ES256 JWT?
-Apple Music with ES256?
-error - table doesn't exist
-Table doesn't exist
-aborting: Table doesn't exist: SHOW FULL FIELDS FROM 'some_tables'
-Ubuntu 16.04
-on Ubuntu 16.04
-"""command not found"""
-ActiveRecord::Base:Class
-`sanitize' for ActiveRecord::Base:Class
-method `sanitize' for ActiveRecord::Base:Class
-with Capybara and Selenium with Cucumber
-Capybara and Selenium with ruby
-Capybara and Selenium with Headless Chrome?
-Pipe with fork
-from fork
-Can't connect to fork with IO.pipe
-in rails 3?
-in rails 3?
-all rails 3?
-header
-GET request with header
-request with header
-new rails app
-native extension
-build gem native extension
-"""\xCF"" from ASCII-8BIT to UTF-8 (Encoding::UndefinedConversionError)"
-from ASCII-8BIT to UTF-8 (Encoding::UndefinedConversionError)
-running a ruby script in rails
-in ruby heredoc?
-to avoid a newline at the end of a string in Ruby heredoc?
-add a newline at the end of a string in Ruby heredoc?
-in the asset pipeline
-"asset ""application.js"" is not present in the asset pipeline"
-not present in the asset pipeline
-and pluck?
-"pluck, and select?"
-"collect, pluck or map in Rails?"
-enum value in ASP.NET MVC?
-in SqlAlchemy?
-from enum value in SqlAlchemy?
-"use SET, REMOVE, ADD, DELETE in an AWS Update Expression?"
-an update expression?
-AWS update expression?
-syntax)?
-in Ruby?
-correct way to expose methods in Rails 3?
-key
-in hash
-python
-clause
-logic with blazer
-"How to do a conditional ""where"" clause in blazer?"
-convert unpermitted parameters to hash
-5 search params in sort helper method
-to convert unpermitted parameters to hash
-highlighting breaks
-Syntax highlighting breaks
-syntax highlighting breaks
-for ruby
-mkmf.rb can't find header files for ruby
-header files for ruby
-#each?
-difference between #each_pair over #each?
-what's the difference between #each_pair over #each?
-"vs #chars("""")"
-string
-"#chars("""")"
-iOS
-Sierra
-error while installing
-assets:precompile before running rspec test suite
-a specific test suite
-single rake assets:precompile before running rspec test suite
-the same model
-form
-instances of the same model
-ruby on rails
-Timestamps to existing table in ruby on rails
-with ruby on rails
-Shopify
-with Shopify
-- Get negotiated rates from the UPS account
+to build gem native extension
+install libv8: ERROR: Failed to build gem native extension
+with webpacker and karma
+with Karma: where should the config files be stored?
+webpacker and karma.config.js
+to express in absolute value in ruby on rails
+a variable as absolute value in ruby on rails?
+in absolute value in ruby on rails?
+with rbenv
+"2.3.0p0: rbenv version >= 2.2.2, which is incompatible with the current version"
 version
-Rails 2.3?
-Ruby 2.3?
+Error installing oj:
+oj: ERROR: Failed to build gem native extension
+installing oj: ERROR: Failed to build gem native extension
+ruby 2.4.0 p0
+: Failed to build gem native extension
+json: ERROR: Failed to build gem native extension
+how can I use it?
+can I access Google Contacts via the Google API Client in Ruby?
+ruby client
+installing octopress after rbenv exec bundle install
+rbenv in octopress
+install octopress rbenv
+to OpenStruct
+with methods
+hash to OpenStruct
+"1.2.1"" with native extensionsErrno::EACCES: Permission denied"""
+Errno::EACCES: Permission denied when installing nio4r
+12?
+a column in rake?
+default value of a column in rake?
+value of a column in rake?
+to find current route in middleware of Rails 4 application
+route in rails middleware
+in a rails app
+Ruby debugger return different values than original code?
+values from the original code?
+different values than the original code?
+reverse query by timestamp in rails
+with null value in Rails
+Rails
+"available for: osx/10.12/x86_64/ruby-2.4.0. Continuing with compilation"" mean?"
+mean?
+'rvm help mount' mean?
+database
+database is being run on multiple databases
+was run against a different database
+string name of enum state by integer value in rails?
+to get enum state name by integer value in rails?
+way to get enum state name by integer value in rails?
 in Ruby
-array based on a condition?
+Ruby
+in Ruby
+"""Unknown alias: item_attributes""?"
+"with ""Unknown alias: item_attributes""?"
+YAML.safe_load not working with react_on_rails locale file?
+behaviour when dropping parentheses in Ruby
+with dropping parentheses in Ruby
+dropping parenthesis in Ruby
+from a runtime error in Ruby?
+messages in a Ruby class?
+I rescue from a RuntimeError with a specific message in Ruby?
+to remove an element from an array at a specified index
+element from an array at a specified index but not perform the operation in place?
+not perform the operation in place?
+the block is associated with the -> method call
+the block will be associated with the -> method call
+be associated with the -> method call
+Start Solr
+X
+"localhost:8981, No JSP Support for /solr"
+substring in a string
+of all occurrences of a substring in a string
+in a string
+issue
+- Devise Audited or Paper Trail gem
+Audited or Paper Trail
+getting Gemfile.lock out of sync with a repository
+Gemfile.lock
+am I doing wrong with my Gemfile.lock?
+on element by class name
+by class name
+Click element by class name
+"t('business_rules.project_access_denied'), status: 401)`"
+5.1?
+not the overhead of a view template?
+class from a Rails active record relation
+record relation
+from a Rails active record relation
+error when loading yaml file
+loading yaml file
+file
+in Ruby?
+lazy reject?
+an empty array?
+on Rails
+hash
+Ruby on Rails
+RVM on Windows?
+a Dockerfile?
+install Ruby on Linux with RVM?
+mysql2 on macOS Sierra
+on macOS Sierra
+macOS Sierra
+merge two arrays of hashes while keeping the duplicates in the result?
+hashes into one array of hashes ignoring duplicated keys?
+arrays of hashes without overwriting the first key in the second?
+action in RSpec
+error: unknown keyword: id
+id
+logic in ENV variable
+in ENV variable
+ENV variable
+"on Heroku"""
+Heroku
+"remote: sh: 2: Syntax error: Unterminated quoted string"""
+"arguments (given 1, expected 0) (ArgumentError)"
+"number of arguments (given 1, expected 0) (ArgumentError)"
+"wrong number of arguments (given 1, expected 0) (ArgumentError)"
+react-router static files in slim on Rails API mode?
+use slim on Rails with react-router?
+a slim on Rails application written in React with Ruby on Rails?
+new Ruby 1.9 hash syntax for Ruby 1.9 hash syntax
+1.9 hash syntax
+ruby 1.9 hash syntax for linting
+"method `new' for ""Rack::Cors"":String(NoMethodError)?"
+"solve ""undefined method `new' for ""Rack::Cors"":String(NoMethodError)?"
+"`new' for ""Rack::Cors"":String (NoMethodError)?"
+array in another array?
+an array in another array?
+"Ruby, how do I find the earliest index of an array in another array?"
+Integer
+Cannot visit Integer
+Cannot visit Integer
+:back
+- undefined method `back_url'
+with undefined method `back_url'
+10.9
+with ruby-build on Archlinux
+/usr/include/openssl/asn1_mac.h:10:2
+do I escape slashes in a JSON string in Rails?
+a slash at the start and end of the string
+a timestamp in a slashes in Rails?
+with RSpec and Capybara
+System Test Suite With ActionDispatch::systemTestCase
+ActionDispatch::systemTestCase with RSpec
+Sierra
+"Error: ""bad interpreter: /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin: no such file or directory"""
+High Sierra
+partials faster than the other?
+partial faster than the other?
+is render partial faster than render partial?
+Apple Music authentication using ruby?
+ES256?
+with ES256?
+fails with Mysql2::Error: Table doesn't exist
+database table fails with Mysql2::Error: Table doesn't exist
+Mysql2::Error: Table doesn't exist
+on Ubuntu 16.04
+GPG signature verification failed for RVM 1.26.0 introduces signed releases
+16.04
+`sanitize' for ActiveRecord::Base:Class
+ActiveRecord::Base:Class
+method `sanitize' for ActiveRecord::Base:Class
+Capybara and Selenium with Headless Chrome?
+with Capybara and Selenium
+and selenium?
+in Ruby on Ruby
+thrown by IO.pipe for a forked process
+How to close a pipe after a fork occurs?
+I find my middleware in rails?
+in rails?
+my rails middleware?
+with header
+Sending a GET request with a header
+header
+current directory
+app
+gem native extension
+file to Tempfile
+running in rails
+UTF-8 (Encoding::UndefinedConversionError)
+avoid newline in ruby heredoc?
+newline (\n) in ruby heredoc?
+ruby heredoc?
+in the asset pipeline
+asset pipeline
+the asset pipeline
+"collect, pluck or select?"
+pluck or select?
+pluck?
+enum value in Model
+to get enum key from enum value in Model
+a key from an enum value in Model
+use a .pluck() finder method in RoR?
+in RoR?
+a finder method for selecting distinct records from a specific table?
+DateTime to ActiveRecord Query
+statement
+in where clause
+into one update_expression in AWS DynamoDB?
+an update expression in AWS DynamoDB?
+"update expression (SET #ADR = :a, REMOVE #ON) in AWS DynamoDB?"
+Ruby?
+between &. and &. in Ruby?
+&. and &. in Ruby?
+keys
+Javascript
+hash
+join where clause
+clause
+How to check if variable present in where clause?
+convert unpermitted parameters to hash
+unpermitted parameters to hash
+hash
+create OpenSSL::PKey::RSA from string
+public key modulus
+and public key modulus
+array
+an object into an array of objects
+- Inserting an object into an array
+"""improved syntax highlighting"""
+breaks
+"Text 3: ""improved syntax highlighting"""
+mkmf.rb can't find header files for ruby
+can't find header files for ruby
+Error: mkmf.rb can't find header files for ruby
+over #each?
+"Ruby, what's the difference between #each and #each_pair?"
+what's the difference between #each and #each_pair?
+string
+string split vs. chars
+vs. #chars
+Sierra
+error
+- bad interpreter: No such file or directory
+in a rspec test suite
+assets:precompile only when tests are included in a rspec test suite?
+a single command only when tests are included in a rspec test suite
+- SQLite3::SQLException: Cannot add a NOT NULL column with default value NULL
+rails
+in rails
+Rates in UPS
+Negotiated Rates (UPS)
+Shopify
+week from DateTime.now + 1.week
+in Rails
+from DateTime.now + 1.week
+versions before installing RVM?
+to change Ruby versions in before_install?
+change Ruby versions in before_install?
+condition in Ruby
 single array?
-of AnyInstance
+an array based on a condition in Ruby
 'allow_any_instance_of'
-Avoid stubbing with 'allow_any_instance_of'
-for Ruby on Ubuntu 16.04
-works on Ubuntu 16.04 LTS
+stubbing using 'allow_any_instance_of'
+test
+string)
+on URI.parse
+use URI.parse instead of require 'uri'
+occurred while installing pg gem on Ubuntu 16.04 LTS
 on Ubuntu 16.04 LTS
+installing pg gem on Ubuntu 16.04 LTS
+rollback error: Cannot run migrations because another migration process is currently running
 ActiveRecord::ConcurrentMigrationError: Cannot run migrations because another migration process is currently running
-ConcurrentMigrationError: Cannot run migrations because another migration process is currently running
-"solve ""ActiveRecord::ConcurrentMigrationError: Cannot run migrations because another migration process is currently running"" error?"
-in crunchbase using ruby on rails
-in crunchbase
-a where string using crunchbase in ruby on rails
-magic comment # frozen_string_c
-magic comments in my Gemfile?
-not complain about frozen magic comment
+ActiveRecord::ConcurrentMigrationError: Cannot run migrations because another migration process is currently running
+in crunchbase where clause
+Model.where in crunchbase
+a where query in crunchbase
+comment
+to fix missing magic comment
+magic comment
+Ruby?
 %I mean in Ruby?
 %i or %I mean in Ruby?
-is the meaning of %i or %I in ruby?
-Freeze IP address?
-should I freeze this IP address?
-this IP address?
-read property 'new' of nil:NilClass <NoMethodError>
-property 'new' of nil:NilClass <NoMethodError>
-keyword `wait_for` on nil:NilClass <NoMethodError>
-a file
-service from lib/services/my_service.rb
-in app/controllers from lib/services/my_service.rb
-"no such file"" error when installing ruby-2.0.0"
-"module 'ruby2.0.0'"" error when installing ruby-2.0.0"
-"resolve symbol 'osx/10.12/x86_64/ruby-2.0.0-p648"" when installing ruby-2.0.0"
+constants?
+Freeze IP address
+to constants?
+# ./spec/slack_service_spec.rb:12
+singleton # ./spec/slack_service_spec.rb:12
+define singleton
+Rails 5.1.1
+in Ruby 5.1.1
+ActiveSupport::MessageVerifier::InvalidSignature when migrating to rails 5.1.1
+file
+directory
+constant file in controller
+"no binary rubies available for: osx/10.12/x86_64/ruby-2.0.0-p648"""
+"file: no binary rubies available for: osx/10.12/x86_64/ruby-2.0.0-p648"""
+2.0.0 with RVM
+set collectionFormat in swagger.yml
+in swagger.yml
 to specify collectionFormat in swagger.yml
-parameters in swagger.yml
-parameter in yml
-array of arrays?
-an array of arrays?
-I add elements to an array of arrays
-- Xcode alone is not sufficient on Sierra.Install
-"is not sufficient on Sierra"" on Mac OS X 10.9"
-"not sufficient on Sierra"" on Mac OS X 10.9"
-with parameters from within a lane?
-a method in Ruby from within a lane?
-I get all lane parameters from within a lane?
-duplicate key value violates unique constraint
-unique constraint
+array of array in Ruby
+convert an array of array to a sum of another array in Ruby
+to convert array of array to sum of other array in ruby
+of Xcode alone is not sufficient on Sierra
+"on Sierra"" when I try to upgrade Ruby"
+"is not sufficient on Sierra"" when I try to upgrade Ruby"
+to add parameters to all lanes in a Fastfile?
+with parameters from another lane in Ruby?
+another lane in Ruby?
+value violates unique constraint
+ERROR: duplicate key value violates unique constraint
 key value violates unique constraint
-didn't match request.base_url (http://example.com/)
-broken login
-didn't match request.base_url
+did't match request.base_url (http://example.com)
+request.base_url (http://example.com)
+(https://example.com) didn't match request.base_url
+a parameter to a raw sql query using ruby on rails active record
+a rails active record
+in Rails
+law of demeter in Rails
+method to a has_many association in rails
 to a has_many association in rails
-in rails
-association in rails
-that conflict with byebug reserved name
-conflict with byebug reserved name
-name?
-count of an array is greater than zero
-of an array greater than 0
-an array greater than 0
-matrix eigenvectors in Ruby
-when finding eigenvectors of a matrix in Ruby
-eigenvectors in a matrix in Ruby
-"rake, does not work - config/boot.rb bundler/setup can not work"
-`config/boot.rb` can not work
-does not work. config/boot.rb bundler/setup can not work
-error while installing CocoaPods
-"write permissions for the /usr/bin directory"" error while installing CocoaPods"
-"""You don't have write permissions for the /usr/bin directory"" error while installing CocoaPods"
-file save?
-format code?
-format my code?
-I make a belongs_to optional option in Rails?
-do optional options in belongs_to in Rails?
-option for a belongs_to in Rails?
-unexpected tEQ vs. 1 == 1 == 1?
-"error, unexpected tEQ vs. 1 == 1 == 1?"
-'1 == 1 == true' evaluate to true in JavaScript or '1 == 1 == 1'?
-"can't activate pg (~> 0.18), already activated pg-1.0.0"
+which conflict with byebug reserved keyword names?
+to access variable names which conflict with byebug reserved keyword names?
+reserved keyword names?
+that an array is greater than zero
+array is greater than zero
+of an array is greater than zero
+when finding eigenvectors of a matrix in ruby
+producing unreasonable results
+when finding eigenvectors of a matrix
+does not work. config/boot.rb bundler/setup can not be required
+'config/boot.rb bundler/setup can not be required'
+"rails app, does not work. config/boot.rb bundler/setup can not be required"
+"""You don't have write permissions for the /usr/bin directory"" when installing CocoaPods"
+"have write permissions for the /usr/bin directory"" when installing CocoaPods"
+error when installing CocoaPods
+rubocop ) doesn't auto-correct indentation and cop rules on save
+doesn't auto-correct indentation and cop rules on save
+correct indentation and cop rules?
+option for a Rails belongs_to association?
+a Rails association's optional value using a custom validator?
+optional rails association using a custom validator?
+Liquid syntax: {%- assign %} vs {%- assign %}
+: {%- assign ... %} vs %- assign
+= [some_val] %}?
+result in unexpected tEQvs?
+does 1 == 1 == 1 return true instead of 1?
+== true == true) evaluate to true?
 "0.18), already activated pg-1.0.0"
-"activate pg (~> 0.18), already activated pg-1.0.0"
-super (Ruby)
-yield block if block_given?
-to super method in Ruby
-`NoMethodError - undefined method `recent` for #<Event>?
-stack trace?
-re-enable stack trace?
-not built after installing rails
-are not built after installing rails
-extensions are not built after installing rails
-to int
-of strings to int
-integer
-difference between .rewind and .close?
+already activated pg-1.0.0
+pg-1.0.0
+yield a block for super?
+super calls
+to super in Ruby
+Ruby enable the stack trace in the Rails server log?
+disable the stack trace in the Rails server log?
+show the stack trace in the Rails server log?
+built during rails installation
+its extensions are not built
+list because its extensions are not built
+strings in array to integers
+array of integers
+of strings to integers
+Sass: (Errno::EPERM) Operation not permitted
+update permissions: (Errno::EPERM) Operation not permitted
+- /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/gem
+Tempfile?
 in Ruby?
-Ruby?
-(1.9) 'puts'.class# => NilClass / NilClass
-ruby?
-"{}.class# => Nil"""
-theme error: Could not open library 'libcurl.so.4'
-"when using gem ""jekyll-remote-theme"""
-"work when using gem ""jekyll-remote-theme"""
-variable assignment and comparison
-of the conditional for variable assignment and comparison
-assignment and comparison
-nested hashes and arrays to a single hash
-unique value
-it unique
-to install ruby 2.5.0 in MacOS High Sierra
-in MacOS High Sierra
-rbenv
-install ruby 2.5.0'
-install ruby 2.5.0' on Mac OS X High Sierra
+is the purpose of Ruby's Tempfile.rewind?
+"""puts """".classString#=> nil"" and ""puts [].classArray#=> nil"""
+"{}.class"""
+Ruby's puts statement
+see a page in the local machine
+"Error: ""Could not open library libcurl.so.4.dll"", ""Could not open libcurl.so.4"", ""Could not open libcurl.so.4"", ""Could not open libcurl.so.4"""
+on GitHub Pages
+return of the conditional for variable assignment and comparison
+for variable assignment and comparison
+and comparison
+to Gemfile.lock on Heroku
+Gemfile.lock on Heroku
+added to Gemfile.lock on Heroku
+nested hashes and arrays into a single hash
+value
+to flatten out a hash with nested hashes and arrays into a single hash?
+macOS High Sierra
+Sierra
+2.5.0 thru rbenv
+parameter in Ruby's to_json
+to_json
+for to_json
+1'
+-j 1'
 installing ruby 2.5.0
-in erb template
-erb template
 templates
-remove webpack from my rails template
-from my rails template
-gem dependencies from my rails template
-the Time.Now function to show YYYY-MM-DD HH:MM:SS
-on Rails
-in Ruby
-data search
-search data stored in serialized arrays
-of array in database column
-it works in ruby?
-it useful to define duplicable?
-true but `dup` not mentioned in this Rails source code?
-ActiveStorage: Sort attached images
-Storage - attach with custom attribute
-ActiveStorage: Sort attached images
-are used as raw SQL) called with non-attr (scope)
-SQL) called with non-attr (scope)
-called with non-attr (scope)
-16.04
-error after upgrading from ubuntu 16.04 to 18.04
-from ubuntu 16.04 to ubuntu 18.04
-association when creating an object with factory_bot and factory_girl
-association when creating an object with factory_bot and factory_girl
-factory_bot and factory_girl in Rspec?
-Ruby
-aws-sdk
-"with Ruby aws-sdk, is there a better way?"
-"deep nesting of ul, ol, and li tags"
-'ol' deep nesting with Ruby
-and 'ol' deep nesting with Ruby
+Ruby erb templates
+without leading spaces in ERB templates
+WebMock gem
+module
+a spec
+webpack and all its dependencies from my rails app
+its dependencies from my rails app
+and all its dependencies from my rails app
+Nokogiri
+HH:MM:SS
+using Nokogiri
+data against arrays
+data
+on arrays
+is called?
+defined in Ruby?
+Ruby's `respond_to` defined duplicable?? with true?
+association before the through association is defined
+a has_many :through association before the through association is defined
+Cannot have a has_many :through association before the through association is defined
+- sorting attachments by display_order
+ActiveStorage - sorting attachments
+order to attachment
+updated_at changes
+Fragment Caching and Low-Level Caching
+hash is added to collection
+"Dangerous query method (method whose arguments are used as raw SQL) called with non-attribute argument(s): ""coalesce(\""categories\"".\""ancestry\"", '')"""
+"whose arguments are used as raw SQL) called with non-attribute argument(s): ""coalesce(\""categories\"".\""ancestry\"", '')"""
+"argument(s): ""coalesce(\""categories\"".\""ancestry\"", '')"""
+after upgrading to ubuntu 18.04
+18.04
+to ubuntu 18.04
+lookahead and Non-capturing group
+Group
+in regex
+when creating an object using factory_bot / factory_girl
+association between two objects using factory_bot and factory_girl
+association between two objects using factory_bot and factory_girl
+Storage attachments seed with rails
+db with attachments
+seed in rails
+ruby
+ruby
+tracking using ruby v3
+"ul, ol, and li using nokogiri"
+'ol' tags to give the same view
+or 'ol' or 'li' with nokogiri
 inject(:+)
-Difference between array.sum and array.inject(:+)
 vs inject(:+)
-to the file stored locally in ActiveStorage
-the path to the file stored locally in ActiveStorage
-the file stored locally in ActiveStorage
-Record with attached images in ruby on rails
-get files from attached images in ruby on rails?
-image attachment in ruby on rails
-is not defined
-found
-fails in MacOs Mojave
-libssl
-(libssl)
-loaded: libssl.1.0.0.dylib
-gem
-to build gem native extension
+results
+in Ruby on Rails
+to file in ActiveStorage
+disk
+http.post in Go
+post request
+cookie from http.post in Go
+blank: []
+may not be blank: []
+not be blank: []
+for image attachment in rails?
+image attachment in rails?
+include image attachment in rails?
+exist
+"""active_storage_attachments"" does not exist"
+"relation ""active_storage_attachments"" does not exist"
+is failing in MacOs Mojave
+"#include ""ruby/config.h"""
+MacOs Mojave
+libssl.1.0.0.dylib
+- libssl.1.0.0.dylib
+- libssl.1.0.0.dylib
+installing mysql2 gem on Mac OS X
+install mysql2 gem
 mysql2 gem
-ActiveStorage
-mean?
-Did you mean?
-`require': cannot load such file -- bootsnap/setup (LoadError)
--- bootsnap/setup (LoadError)
-file -- bootsnap/setup (LoadError)
-for create_table
-`index: true`
-and `index: true` don't work
+you mean? load
+load
+`upload' for nil:NilClass
+with an empty array in a parameter
+for an array parameter
+spec with an empty array parameter
+"bundler error) ""require': cannot load such file -- bootsnap/setup (LoadError)"""
+"""require': cannot load such file -- bootsnap/setup (LoadError)"""
+bootsnap/setup (LoadError)
+and `index: true` are not backed by `unique`
+true`
+has_one that isn't backed by unique indexes
 Ruby?
-in Ruby?
-of Ruby's private_methods?
+is the purpose of nil.private_methods?
+the purpose of nil.private_methods?
 installing jekyll: ERROR: Failed to build gem native extension
-gem native extension
-Failed to build gem native extension
-react native
-Analyzing dependencies
-native
-with simplecov installed
-simplecov gem installed
-Rails: Simplecov does not work
-SystemStackError: stack level too deep
-causes SystemStackError: stack level too deep
-"too deep"" error"
-for ruby 2.5.1
-Ruby on OSX 10.9 (Mac OSX 10.6.5)
-1.5.1
-installing mini_racer with native extension
-mini_racer with native extensions
-installing mini_racer with native extension
-returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate)
-get local issuer certificate)
-verify failed (unable to get local issuer certificate)
-or directory puma.pid (Errno::ENOENT)
-- tmp/pids/puma.pid (Errno::ENOENT)
-file or directory puma.pid (Errno::ENOENT)
-the `last_sign_in_at` field in Devise?
-activate the 'last_sign_in_at' field in Devise?
-migration file in RoR?
-"with error ""Failed to build gem native extension"""
-"install fails with ""gem install libxml-ruby 2.9.0"""
-install libxml-ruby 2.9.0
-command not working?
-doesn't my jekyll command work?
-not working?
-message is below: rubocop is not excutable execute path is empty! please check ruby.rubocop.executePath
-working
-"not excutable execute path is empty!"""
-Rails
-the image_tag tag
-on Rails
-RuboCop
-for Ruby class variables
-access class variable without offense
-find gem bundler (>= 0.a) with executable bundle (Gem::GemNotFoundException)
-bundler (>= 0.a) with executable bundle (Gem::GemNotFoundException)
-0.a) with executable bundle (Gem::GemNotFoundException)
-installing gems
-"""gem list"""
-installing gems?
-and belongs_to
-: true
-Expected to belong to share_class optional: true
-to install Ruby Version with RVM on MacOS 10.14.2 Mojave
-install Ruby Version with RVM on MacOS 10.14.2 Mojave
-command 'libtool: object: dln.o malformed object (unknown load command 1)
-3: Use 'begin' with 'rescue' and 'end'
-Redundant 'begin' warning?
-Express and Rescue - Is 'begin' redundant?
-upgrade` fails with error: ruby-build cannot be built with any available compilers
-built with any available compilers
-any available compilers
-does Active-Storage store files stored?
-store files?
-Active-Storage store files stored?
-'sqlite3' Active Record adapter. Missing a gem it depends on?
-rails app: ActiveRecord::ConnectionNotEstablished No connection pool with '#{spec_name}' found
-"with sqlite3 error: ActiveRecord::ConnectionNotEstablished ""No connection pool with '#{spec_name}' found."""
-load such file system/libxml2)
-found in bundle install ruby 2.4.4)
-failed to build gem native extension - cannot discover where libxml2 is located on your system
--- active_support/core_ext/object/blank (LoadError)
-such file -- active_support/core_ext/object/blank (LoadError)
-active_support/core_ext/object/blank (LoadError)
-is it for in Sinatra projects?
-"config.ru, and what is it for in Sinatra projects?"
-"file config.ru, and what is it for in Sinatra projects?"
-caching in Rails?
-caching
-development?
-bundler version must be at least 2.0.0?
-in latest version (>= 2.0.0)
-Beanstalk - can't find bundler
-begin block
-begin block
-or exit a begin/end block
-regex?
-escape unbalanced delimiters in a Regexp?
-string escape %r<> with Ruby?
-command in docker
-bundler in docker
-bundler command in docker
-- Chrome driver path is deprecated. Use Selenium::WebDriver::Chrome::Service#driver_path= instead
-Capybara: Selenium::WebDriver::Chrome#driver_path is deprecated. Use Selenium::WebDriver::Chrome::Service#driver_path= instead
-Selenium: Selenium::WebDriver::Chrome#driver_path= is deprecated. Use Selenium::WebDriver::Chrome::Service#driver_path= instead
-yarn
-yarn
-yarn
-"""SSL_connect returned=1 state=SSLv3/TLS write client hello: wrong version number"""
-"How to fix ""SSL_connect returned=1 state=SSLv3/TLS write client hello: wrong version number"""
-"and Faraday ""SSL_connect returned=1 state=SSLv3/TLS write client hello: wrong version number"""
-I make ZeitwerkRails 6's autoloaderload dynamically?
-file?
-6?
-resolve type mismatch when mocking a method that has sorbet type signature?
-do I get a type mismatch error when mocking a method that has sorbet type signature?
-signature in RSpec?
-versions
-bundler version with rbenv
-bundler versions
-Deprecation Message
-return Content-Type header without modification
-modification use #media_type instead
-"`--no-ri` and ""--no-rdoc"" in Gemfile?"
-`--no-ri` and `--no-rdoc` in Gemfile?
-put --no-ri or --no-rdoc on the command line?
-2 valid in Ruby?
-age *= 2 not valid in Ruby?
-Ruby?
-the URL in my Rails app?
-"form_for"" being called again in the browser instead of ""url"" in my rails app?"
-Rails 3)
-folders with Zeitwerk?
-Zeitwerk?
-with Rails?
-falsy in Ruby?
-Ruby Boolean object not falsy?
-Ruby but not in a singleton instance?
-6.1?
-`with_all_final_state_fulfillments` in Rails 6.1?
-scoping from `with_all_final_state_fulfillments` in Rails 6.1?
-a negative sign in float?
-have a negative sign in float?
--0.0*-1 in ruby?
-(NoMethodError)
-#<Bundler::RubygemsIntegration> (NoMethodError)
-for #<Bundler::RubygemsIntegration> (NoMethodError)
-method is defined is deprecated. What does this mean?
-in Ruby 2.7. What does it mean?
-is defined
-method `transform_keys'
-selenium-webdriver
-website after update gems
-"same?"" with different cropping?"
-the same in rmagick?
-images are the same in rmagick?
-RVM
-installed
-on Mac OS X 10.15.2
-to build gem native extension
 build gem native extension
 native extension
-a way to alias a class method in Ruby?
-class method in Ruby?
-there a way to alias a class method in Ruby?
-in the scope of its own instance?
-I make a Ruby proc in the scope of its own instance?
+terminated with exception
+iOS native
+native
+and simplecov
+and SimpleCov: How to analyse code coverage?
+and SimpleCov: How to analyse code coverage?
+for large arrays
+arrays
+causes SystemStackError: stack level too deep
+find gem railties with executable rails (Gem::GemNotFoundException)
+with executable rails (Gem::GemNotFoundException)
+0.a) with executable rails (Gem::GemNotFoundException)
+mini_racer gem
+gem
+installing mini_racer gem
+engines match .* twice in a single-line string?
+many regex engines match twice in a single-line string?
+"match .* twice in a single-line string, but only one match at the end?"
+local issuer certificate)
+certificate)
+verify failed (unable to get local issuer certificate)
+puma.pid (Errno::ENOENT)
+such file or directory puma.pid (Errno::ENOENT)
+or directory puma.pid (Errno::ENOENT)
+the last_sign_in_at field in Devise?
+gem's last_sign_in_at field in RoR?
+Rails migration file?
+!ruby in YAML
+in YAML
+!ruby/object:MyClass in YAML
+is attached
+ActiveStorage scope for files attached
+scope for files attached
+libxml error
+install libxml error
+install libxml
+files
+on model after_update or after_save
+Storage files after_update or after_save
+working anymore on my computer?
+my jekyll command not working?
+doesn't my jekyll command work?
+with HTTParty
+(Connection refused - connect(2) for nil port 80))
+to open TCP connection to :80 (Connection refused - connect(2))
+working
+is not excutable execute path is empty
+"not excutable execute path is empty!"""
+for Nil location provided when using image_tag
+Nil location provided when using image_tag
+rails 5
+with Ruby 2.5.1?
+RuboCop class variables
+Ruby/RuboCop
+executable bundle (Gem::GemNotFoundException)
+bundle (Gem::GemNotFoundException)
+gem bundler (>= 0.a) with executable bundle (Gem::GemNotFoundException)
+can't find gem bundler (Gem::GemNotFoundException)
+bundler with executable bundle (Gem::GemNotFoundException)
+gem bundler (>= 0.a) with executable bundle (Gem::GemNotFoundException)
+"Expected to have a belongs_to association called share_class, but was not"
+"fails with ""expected to have a belongs_to association called share_class"""
+belongs_to association should have been defined with `optional: true` but was not
+running '__rvm_make -j4'
+(libtool: object: dln.o malformed object)
+libtool: object: dln.o malformed object (unknown load command 1)
+Redundant 'begin' warning within a block?
+Rescue
+Rails Warning
+upgrade` fails with error: CompilerSelectionError: ruby-build cannot be built with any available compilers
+"compilers"""
+"any available compilers"""
+and how do I physically access them?
+I physically access them?
+does Active-Storage store files stored in my local disk?
+sqlite3 verion
+and start server with sqlite3
+ruby app: sqlite3-1.4.0 can't activate?
+executing gem ... (TypeError) incompatible marshal file format (can't be read) format version 4.8 required; 60.33
+... (TypeError) incompatible marshal file format (can't be read) format version 4.8 required; 60.33
+be read) format version 4.8 required; 60.33
+load such file -- active_support/core_ext/object/blank (LoadError)
+file -- active_support/core_ext/object/blank (LoadError)
+cannot load such file -- active_support/core_ext/object/blank (LoadError)
+config.ru in Sinatra?
+config.ru in Sinatra?
+is config.ru in Sinatra?
+development?
+caching for files in development environment?
+caching for file in Rails?
+'bundler/appdeploy/pre/10_bundle_install.sh'
+Ruby 2.6.1
+'ebextensions'
+a begin/end block in Ruby
+begin/end blocks
+in Ruby
+regex?
+do you escape the %r<> delimiters in a regex?
+a regexp?
+3 with rails in docker build
+or down
+package on heroku docker build
+Selenium: WARNING Selenium [DEPRECATION] Selenium::WebDriver::Chrome#driver_path= is deprecated. Use Selenium::WebDriver::Chrome::Service#driver_path= instead
+[DEPRECATION] Selenium [DEPRECATION] Selenium::WebDriver::Chrome#driver_path= is deprecated. Use Selenium::WebDriver::Chrome::Service#driver_path= instead
+is deprecated. Use Selenium::WebDriver::Chrome::Service#driver_path= instead
+Sass::SyntaxError: File to import not found or unreadable: ~@fortawesome/fontawesome-free-webfonts/scss/fontawesome
+- File to import not found or unreadable
+and yarn
+"Faraday: ""SSL_connect returned=1 errno=0 state=SSLv3/TLS write client hello: wrong version number"""
+version number
+"Rails : Faraday::SSLError, ""SSL_connect returned=1 errno=0 state=SSLv3/TLS write client hello: wrong version number"""
+listed in your Gemfile
+found in any of the sources listed in your Gemfile
+could not be found in any of the sources listed in your Gemfile
+a third party lib in Rails 6?
+6 app?
+third party lib in Rails 6?
+(undefined method `log' for #<Selenium::WebDriver::Remote::W3C::Bridge:0x0000562dc661c250>
+74.0.3729.6
+throws undefined method `log' for #<Selenium::WebDriver::Remote::W3C::Bridge:0x0000562dc661c250>
+can I mock a method that has a sorbet type signature using RSpec?
+signatures with RSpec?
+RSpec?
+bundler versions
+versions
+multiple bundler versions
+modification use #media_type instead
+what does this deprecation message mean?
+without modification
+a role to a Keycloak API request
+in the Keycloak API not working?
+"property of a user in the Keycloak API does not always match the ""owner""?"
+"the following command on Windows 10: ""No $EDITOR to open file in. Assign one like ""mate --wait"""
+10
+subsystem
+Reading First Column
+File
+of a File
+is the new command line option for `gem update --systemgem` install xxxx --no-ri --no-rdoc?
+install?
+for --no-ri and --no-rdoc?
+"and ""setup do"" in Ruby on Rails?"
+calling def setup and setup do in Rails Minitests?
+"""setup do"" in Ruby on Rails?"
+after upgrading from 6.0.0 to 6.0.0?
+to 6.0.0?
+upgrading from 6.0.0 to 6.0.0?
+"""((1 + age) *= 2)"" valid in Ruby?"
+with higher precedence than the compound assignment operator?
+2 valid in Ruby?
+I check if two ranges meet the range.cover? in ruby?
+range (behind the ranges being co-ords)?
+Ruby?
+on Rails)
+is my new.html.erb view showing in browser instead of showing it?
+"new"" in Rails showing my view as it's supposed to?"
+folder with Zeitwerk?
+6?
+do I ignore a folder with Zeitwerk?
+considered truthy but not falsy?
+truthy but not falsy?
+in Ruby?
+Rails 5.2.3?
+in a Rails render partial?
+returns true for a render partial
+Rails 6.1?
+will no longer inherit scoping from `with_all_final_state_fulfillments` in Rails 6.1?
+`with_all_final_state_fulfillments` in Rails 6.1?
+can I assign a negative sign to 0.0 float?
+* -1?
+assign a negative sign to 0.0 in ruby?
+doubles over normal doubles`
+error - prefering verifying doubles over normal doubles
+- prefering verifying doubles over normal doubles
+command not found: rbenv
+not found: rbenv
+rbenv
+(NoMethodError)
+method `plain_specs' for #<Bundler::RubygemsIntegration>(NoMethodError)
+#<Bundler::RubygemsIntegration>(NoMethodError)
+forbidden error?
+403 Forbidden with a GET request?
+webhooks do not work locally?
+here
+is defined here
+defined here
+`transform_keys' for <ActionDispatch::Request::Session:0x00005568df2a8710>
+website
+for <ActionDispatch::Request::Session:0x00005568df2a8710>
+different images are the same with Magick?
+detect if two images are the same with different cropping
+with different cropping ratio in ruby?
+running 'env GEM_HOME=/Users/john/.rvm/gems/ruby-2.3.8@global'
+10.15.2
+no binary rubies available for: osx/10.15/x86_64/ruby-2.3.8
+in Python
+definition in Visual Studio Code
+Python
+Version:macOS
+build gem native extension
+to build gem native extension
+unannotated tokens (like %s)
+over unannotated tokens (like %s)
+over unannotated tokens
+alias for a class method in Ruby?
+for class methods in Ruby?
+method in Ruby?
+Ruby
+2.7
+in Ruby
+to get OAuth request token from Twitter
+"""Could not authenticate you."" error"
+Authentication' error
+SQL's OR/AND clauses in ActiveRecord?
+clauses?
+query?
+scope a Proc in the scope of its own instance?
 scope of its own instance?
-bundle install puma 4.3.5 or gem puma
-to bundle install puma 4.3.5 or gem puma
-ruby-2.6.6 on macos
-"OpenSSL 1.1.1, Catalina 10.15.6 (19G73)"
-installs
-on MacOS X
-for libffi is not found
-libffi is not found
-is not found
-of the can? method used by cancancan?
-cancancan gem
-to find out the can? method used by cancancan?
-web server
-occurred while installing thin web server
-error occurred while installing thin web server
-Mac OS X 10.6.5
+the scope of its own instance?
+puma 4.3.5 or gem puma with ruby-2.6.6 on macos
+with ruby-2.6.6 on macos
+gem puma with ruby-2.6.6 on macos
+to install - ERROR: Failed to build gem native extension
+OpenSSL issue: Error installing puma: ERROR: Failed to build gem native extension
+asdf version manager
+found
+not found
+travis
+cancancan gem?
+for a method with cancan can gem?
+a method with cancan can gem?
+"installing thin (1.7.2), and Bundler cannot continue"
+"error occurred while installing thin (1.7.2), and Bundler cannot continue"
+"(1.7.2), and Bundler cannot continue"
+/ Ubuntu 18.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.04/16.
+version
+2.7.1)
 install specific ffi version
+specific version
 specific ffi version
-to upgrade ruby version 2.7.2
-on Mac with rbenv
-Ruby version 2.7.2
-(parameter) type in Ruby?
-in Ruby?
-syntax of `p(...)` in Ruby?
-Alpine Linux
+help to install ruby 2.7.2 on Mac with brew update
+2.7.2 on Mac with brew update
+installing ruby 2.7.2 on Mac with brew update
+as a daemon
+-d
+(Option::AmbiguousOption)
+signature in Ruby?
+in Ruby's to_a syntax?
+Ruby?
 Linux
-and timezone errors on Alpine Linux
-"(libxslt-dev, libxml2-dev)"
-10.9.2
-/usr/bin/mkdir: command not found
-`Podfile`
-- undefined method `each_child'
-`each_child'
-replacement of URI.encode
-obsolete
-why?
-how to get Ruby version 3.0.0?
-3.0.0?
-to get Ruby version 3.0.0?
-such file -- rexml/document (LoadError)
-failed: `require': cannot load such file -- rexml/document (LoadError)
-6.1: `require': cannot load such file -- rexml/document (LoadError)
-load such file -- webrick/httputils (LoadError)
--- webrick/httputils (LoadError)
-such file -- webrick/httputils (LoadError)
-RSpec::Rails::FixtureFileUploadSupport::RailsFixtureFileWrapper:Class Did you mean?
-6
-rails 6
-redirect on Rails 6 with Ruby 6
-URL
-Rails 3
-error: bundler: cannot load such file -- rexml/parsers/baseparser (LoadError)
-error: bundler: cannot load such file -- rexml/parsers/baseparser (LoadError)
-bundler: cannot load such file -- rexml/parsers/baseparser (LoadError)
-Rails server on M1 chip
-server on M1 chip
-chrome
-implicit-function-declaration error in macOS Big Sur
-Implicit Function Declaration
-OS Big Sur Issue
-Rails v 6.1.1 on Mac OS X 10.9
-Mac OS X 10.9.2
-v 6.1.1 on Mac OS X 10.9
-gem 'mimemagic'
-list
-6
-implicit declaration of function 'rb_native_mutex_destroy' is invalid
-fix this?
-when upgrading Ruby to 2.6.7: implicit declaration of function 'rb_native_mutex_destroy' is invalid
-of '9'?
-doesn't Ruby's triple equals operator work in a case statement?
-in Ruby?
-Rails app
-10.9
+"ActiveSupport Time, Alpine Linux, Ruby, and Berlin"
+time and timezone in Alpine Linux
+--with-xml2-include=/usr/include/libxml2`
 install
-"enabled."""
-an Rails app that uses Searchkick with Homebrew?
-"not enabled."""
-outside?
-doesn't work?
-be found?
-such file -- net/smtp
-3.1 LoadError: cannot load such file -- net/smtp
-cannot load such file -- net/smtp
-classes?
+Ruby on Mac OS X
+post-install hook error
+install error
+Podfile.undefined method `each_child'
+"is obsolete, but it's not"
+2.7.1 - replacement of URI.encode
+obsolete
+the latest Ruby version installed?
+how can I get the latest Ruby version?
+to install the latest Ruby version?
+expected
+rexml/document (LoadError)
+such file -- rexml/document (LoadError)
+sass
+such file sass
+load such file sass
+-- webrick/httputils (LoadError)
+webrick/httputils (LoadError)
+such file -- webrick/httputils (LoadError)
+and rails 6.1
+rails 6.1
+for RSpec::Rails::FixtureFileUploadSupport::RailsFixtureFileWrapper:Class Did you mean? fixture_path
+file or directory
+"url ""https://brandemia.org/files/inline/images/firefox_logo.jpg"""
+on Rails 6 but upgrading Ruby to 6.11
+such file -- rexml/parsers/baseparser (LoadError)
+"exec jekyll fail with ""cannot load such file -- rexml/parsers/baseparser (LoadError)"""
+file -- rexml/parsers/baseparser (LoadError)
+- No such file or directory
+: open an url with open and i gotlib/scrapper.rb:7:in `initialize': No such file or directory
+: No such file or directory
+running rails server on mac os x
+Rails server on mac os x
+server on mac os x
+record was deleted?
+if a record was deleted?
+was deleted?
+implicit-function-declaration error on Mac OS 11.2
+(implicit-function-declaration)
+on OS X)
+"itself? rbenv install --list-all shows me, but 3.0.0-dev 3.0.0-preview13.0.0-preview2?"
+rails?
+is rbenv install --list-all?
+"""gem install fastlane"""
+`request' for nil:NilClass(base)
+install fastlane
+OS X 6.1.1
+v 6.1.1 on Mac OS X
+install Rails v 6.1.1 on Mac OS X
+find gem 'mimemagic'
+(Ruby 6)
+gem
+2.6.7: implicit declaration of function 'rb_native_mutex_destroy' is invalid in C99
+"rbenv - implicit declaration of function 'rb_native_mutex_destroy' is invalid in C99vm.c:2489:34: warning: expression does not compute the number of elements in this array; element type is 'const int', not 'VALUE' (aka 'unsigned long')"
+expression does not compute the number of elements in this array
+error
+spec
+ruby spec
+the triple equals operator not matching if the range is up to 9 and not 10?
+in a case statement not in the range (<=9> and <=10)?
+triple equals operator not matching?
+method with boolean argument
+when defining method with boolean argument
+keyword arguments when defining method with boolean argument
+and Bundler cannot continue
+(0.5.3)
+install MySQL
+"are not enabled."""
+"features are not enabled."""
+"your cluster could be accessible to anyone."""
+image)
+file
+docker image)
+C99
+fails with: implicit declaration of function 'ffi_prep_closure' is invalid in C99
+function 'ffi_prep_closure' is invalid in C99
+to its instance variable?
+"Ruby, what does `print_constant_fails` do?"
+in the class?
+devise in rails
+in rails
+install devise in rails
+"in the following locations"""
+"find MIME type database"""
+"type database"""
+ruby 2.6.8
+Mac OS X
+2.6.8
+and rails new
+'master' as the name for the initial branch
+rails new
+net/smtp
+file -- net/smtp
+3.1 - LoadError: cannot load such file -- net/smtp
 with modules versus classes?
+prepend different when used with modules versus classes in Ruby?
 modules versus classes?
+- warning: constant ::Fixnum is deprecated
+a warning: constant::Fixnum is deprecated
+::Fixnum is deprecated
+(Psych::BadAlias)
+alias: default (Psych::BadAlias)
+default (Psych::BadAlias)
+: `conflicting_dependencies': undefined method `request' for nil:NilClass (NoMethodError)
+on installing cocoapods: undefined method `request' for nil:NilClass (NoMethodError)
+installing cocoapods: `conflicting_dependencies': undefined method `request' for nil:NilClass (NoMethodError)
+YAML.load_file
+error when using YAML.load_file
+causes Psych::DisallowedClass error when using YAML.load_file
+Project
+Notice: Ruby version: 3.1.2
+Update
+is ruby_execution_context_t *ec = rb_execution_context_t *ec = rb_execution_context_t *ec = rb_execution_context_t *ec = rb_current_ec;?
+with rbenv?
+"""expected =, ,, ;, asm or __attribute__ before struct RUBY_EXTERN"" in my Ruby 3.2?"
+"1.13.0, how to fix ""undefined method 'deprecator' for ActiveSupport:Module (NoMethodError)""?"
+throws a undefined method 'deprecator' for ActiveSupport:Module (NoMethodError)
+"CocoaPods, how to fix ""undefined method 'deprecator' for ActiveSupport:Module (NoMethodError)""?"
+method signature of (*)
+signature of (*)
+signature of (*)
